@@ -1,0 +1,10 @@
+{
+  "extends": "erb",
+  "settings": {
+    "import/resolver": {
+      "webpack": {
+        "config": "config/webpack.config.eslint.js"
+      }
+    }
+  }
+}
