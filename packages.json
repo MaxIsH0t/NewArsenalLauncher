@@ -1,0 +1,12 @@
+{
+    "minimumVersion": 1,
+    "packages": [
+        {
+            "title": "WC Tech & Magic Reborn",
+            "name": "294669",
+            "version": "1.0.201903022343",
+            "location": "294669.json",
+            "priority": 0
+        }
+    ]
+}

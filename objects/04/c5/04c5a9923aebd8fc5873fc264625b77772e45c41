@@ -1,0 +1,137 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:jt.png",
+            "posX" : -100,
+            "posY" : -110,
+            "width" : 200,
+            "height" : 100,
+            "alignment" : "center"
+        }
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 135,
+            "posY" : 5,
+            "width" : 150,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+
+        "multiplayer":
+        {
+            "text" : "Official Server(s)",
+            "posX" : 135,
+            "posY" : 28,
+            "width" : 150,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 160,
+            "posY" : 51,
+            "width" : 75,
+            "alignment" : "left_center",
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 146,
+            "posY" : 74,
+            "width" : 125,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+
+        "language":
+        {
+            "text" : "",
+            "posX" : 235,
+            "posY" : 51,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+		
+
+        "discord":
+        {
+            "text" : "",
+            "posX" : 380,
+            "posY" : 80,
+            "width" : 30,
+            "height" : 30,
+            "texture" : "modpack:discord.png",
+            "imageWidth" : 300,
+            "imageHeight" : 300,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type": "openLink",
+                "link" : "https://discord.gg/8vF9PYM"
+            }
+        }
+    },
+
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "WC Tech & Magic - Arsenal Network 2018",
+            "posX" : -425,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+
+    "other":
+    {
+        
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["modpack:bg.jpg"],
+                "displayDuration" : 100,
+                "fadeDuration" : 40
+            }
+        }
+    }
+}

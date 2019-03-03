@@ -1,0 +1,2419 @@
+{
+    "minimumVersion": 2,
+    "title": "WC Tech & Magic Reborn",
+    "name": "294669",
+    "version": "1.0.201903022343",
+    "librariesLocation": "libraries",
+    "objectsLocation": "objects",
+    "gameVersion": "1.7.10",
+    "launch": {
+    },
+    "tasks": [
+        {
+            "type": "file",
+            "hash": "976f86f9a86e454c387659089118944307ecf37b",
+            "location": "97/6f/976f86f9a86e454c387659089118944307ecf37b",
+            "to": "config/AdvancedThaumaturgy.cfg",
+            "size": 1735
+        },
+        {
+            "type": "file",
+            "hash": "f098e4c029d9a422011df2368830cc4fa290542c",
+            "location": "f0/98/f098e4c029d9a422011df2368830cc4fa290542c",
+            "to": "config/agricraft/Configuration.cfg",
+            "size": 10661
+        },
+        {
+            "type": "file",
+            "hash": "9fe889d8e8c2bdb892032c518ec1d8867c626fa1",
+            "location": "9f/e8/9fe889d8e8c2bdb892032c518ec1d8867c626fa1",
+            "to": "config/agricraft/GrassDrops.txt",
+            "size": 406
+        },
+        {
+            "type": "file",
+            "hash": "a9d219ee12a4a8bfbc25e32be6634636f103a544",
+            "location": "a9/d2/a9d219ee12a4a8bfbc25e32be6634636f103a544",
+            "to": "config/agricraft/Mutations.txt",
+            "size": 9499
+        },
+        {
+            "type": "file",
+            "hash": "c76e8fb907cf5d480ca1cde65a860624d7207c69",
+            "location": "c7/6e/c76e8fb907cf5d480ca1cde65a860624d7207c69",
+            "to": "config/agricraft/SeedBlackList.txt",
+            "size": 188
+        },
+        {
+            "type": "file",
+            "hash": "794e823c5fa97aa9bfe12b41f293eca89ad4be46",
+            "location": "79/4e/794e823c5fa97aa9bfe12b41f293eca89ad4be46",
+            "to": "config/agricraft/SeedTiers.txt",
+            "size": 333
+        },
+        {
+            "type": "file",
+            "hash": "24c47c53ebd63414afbd99eb5479e455c738897e",
+            "location": "24/c4/24c47c53ebd63414afbd99eb5479e455c738897e",
+            "to": "config/agricraft/SoilWhitelist.txt",
+            "size": 437
+        },
+        {
+            "type": "file",
+            "hash": "f6e0b8c78aaa0941970f36b14870ba2c7467a959",
+            "location": "f6/e0/f6e0b8c78aaa0941970f36b14870ba2c7467a959",
+            "to": "config/agricraft/SpreadChancesOverrides.txt",
+            "size": 360
+        },
+        {
+            "type": "file",
+            "hash": "f7e049f286c9ed42369fa65f2bf511cf2b7eb648",
+            "location": "f7/e0/f7e049f286c9ed42369fa65f2bf511cf2b7eb648",
+            "to": "config/agricraft/VanillaPlantingExceptions.txt",
+            "size": 270
+        },
+        {
+            "type": "file",
+            "hash": "007899f34f7ce9ab24bb12120fcbcc98525cecda",
+            "location": "00/78/007899f34f7ce9ab24bb12120fcbcc98525cecda",
+            "to": "config/AM2/AM2.cfg",
+            "size": 8911
+        },
+        {
+            "type": "file",
+            "hash": "5bf3349449b6bf054e2242c6004a5159b683cd0f",
+            "location": "5b/f3/5bf3349449b6bf054e2242c6004a5159b683cd0f",
+            "to": "config/AM2/SkillConf.cfg",
+            "size": 3032
+        },
+        {
+            "type": "file",
+            "hash": "7f6facaa28f626488fb13b78c312abdc6fb44841",
+            "location": "7f/6f/7f6facaa28f626488fb13b78c312abdc6fb44841",
+            "to": "config/AppliedEnergistics2/AppliedEnergistics2.cfg",
+            "size": 10448
+        },
+        {
+            "type": "file",
+            "hash": "50975de203b38783f79df51a315cdd557db97f12",
+            "location": "50/97/50975de203b38783f79df51a315cdd557db97f12",
+            "to": "config/AppliedEnergistics2/CustomRecipes.cfg",
+            "size": 946
+        },
+        {
+            "type": "file",
+            "hash": "267aecd8e1c7b0af5c4956bf6f14ad9d383b4f0c",
+            "location": "26/7a/267aecd8e1c7b0af5c4956bf6f14ad9d383b4f0c",
+            "to": "config/AppliedEnergistics2/Facades.cfg",
+            "size": 102991
+        },
+        {
+            "type": "file",
+            "hash": "6b47570af7634bbbbb6cc180a836ec48143caf26",
+            "location": "6b/47/6b47570af7634bbbbb6cc180a836ec48143caf26",
+            "to": "config/AppliedEnergistics2/recipes/generated/aliases.recipe",
+            "size": 54
+        },
+        {
+            "type": "file",
+            "hash": "0eb40388110fae2e4902695d3bd665dbc91fe642",
+            "location": "0e/b4/0eb40388110fae2e4902695d3bd665dbc91fe642",
+            "to": "config/AppliedEnergistics2/recipes/generated/decorative/certus.recipe",
+            "size": 158
+        },
+        {
+            "type": "file",
+            "hash": "fe9233df1b0651edb933967db877acd4c81ef1a7",
+            "location": "fe/92/fe9233df1b0651edb933967db877acd4c81ef1a7",
+            "to": "config/AppliedEnergistics2/recipes/generated/decorative/crystals.recipe",
+            "size": 1535
+        },
+        {
+            "type": "file",
+            "hash": "0b2d810742f26f4697d083acc7e659a655dde64c",
+            "location": "0b/2d/0b2d810742f26f4697d083acc7e659a655dde64c",
+            "to": "config/AppliedEnergistics2/recipes/generated/decorative/fixtures.recipe",
+            "size": 171
+        },
+        {
+            "type": "file",
+            "hash": "798b10e47ca196ea747220abab138d78ff3a40ec",
+            "location": "79/8b/798b10e47ca196ea747220abab138d78ff3a40ec",
+            "to": "config/AppliedEnergistics2/recipes/generated/decorative/index.recipe",
+            "size": 234
+        },
+        {
+            "type": "file",
+            "hash": "7f5739b9ca057c36962b80e9d8405d13bca43c55",
+            "location": "7f/57/7f5739b9ca057c36962b80e9d8405d13bca43c55",
+            "to": "config/AppliedEnergistics2/recipes/generated/decorative/quartzglass.recipe",
+            "size": 228
+        },
+        {
+            "type": "file",
+            "hash": "9f88e5f75ba673bb0425d0b054456cf6d9047d95",
+            "location": "9f/88/9f88e5f75ba673bb0425d0b054456cf6d9047d95",
+            "to": "config/AppliedEnergistics2/recipes/generated/decorative/skystone.recipe",
+            "size": 233
+        },
+        {
+            "type": "file",
+            "hash": "6b89117a7b312355cc9793bc95c544e747c5cd41",
+            "location": "6b/89/6b89117a7b312355cc9793bc95c544e747c5cd41",
+            "to": "config/AppliedEnergistics2/recipes/generated/decorative/slabs.recipe",
+            "size": 841
+        },
+        {
+            "type": "file",
+            "hash": "78ad344e08fc5abca33a7a4514298ddda0464bbc",
+            "location": "78/ad/78ad344e08fc5abca33a7a4514298ddda0464bbc",
+            "to": "config/AppliedEnergistics2/recipes/generated/decorative/stairs.recipe",
+            "size": 1442
+        },
+        {
+            "type": "file",
+            "hash": "aa4f2133ab590771028a9dc7f9db281aae02df61",
+            "location": "aa/4f/aa4f2133ab590771028a9dc7f9db281aae02df61",
+            "to": "config/AppliedEnergistics2/recipes/generated/groups.recipe",
+            "size": 1379
+        },
+        {
+            "type": "file",
+            "hash": "4c7d7534bd2dca1d5dd17d3c5b1a57ac00d244ed",
+            "location": "4c/7d/4c7d7534bd2dca1d5dd17d3c5b1a57ac00d244ed",
+            "to": "config/AppliedEnergistics2/recipes/generated/index.recipe",
+            "size": 522
+        },
+        {
+            "type": "file",
+            "hash": "79db3607552c59318fd16296f4f22f7a3fdc631c",
+            "location": "79/db/79db3607552c59318fd16296f4f22f7a3fdc631c",
+            "to": "config/AppliedEnergistics2/recipes/generated/materials/cards.recipe",
+            "size": 1057
+        },
+        {
+            "type": "file",
+            "hash": "74e585319489e324991337bd3b9afb471e3d2a6c",
+            "location": "74/e5/74e585319489e324991337bd3b9afb471e3d2a6c",
+            "to": "config/AppliedEnergistics2/recipes/generated/materials/circuits.recipe",
+            "size": 483
+        },
+        {
+            "type": "file",
+            "hash": "86d2f3506bc1cb932503184e5cc54b4b11a80a73",
+            "location": "86/d2/86d2f3506bc1cb932503184e5cc54b4b11a80a73",
+            "to": "config/AppliedEnergistics2/recipes/generated/materials/cores.recipe",
+            "size": 248
+        },
+        {
+            "type": "file",
+            "hash": "e2fdbf0e19d5bda3dad84d64aee34e740f184566",
+            "location": "e2/fd/e2fdbf0e19d5bda3dad84d64aee34e740f184566",
+            "to": "config/AppliedEnergistics2/recipes/generated/materials/index.recipe",
+            "size": 160
+        },
+        {
+            "type": "file",
+            "hash": "314f6738bf12374c8dac07a45c4557423f8c32bd",
+            "location": "31/4f/314f6738bf12374c8dac07a45c4557423f8c32bd",
+            "to": "config/AppliedEnergistics2/recipes/generated/materials/presses.recipe",
+            "size": 459
+        },
+        {
+            "type": "file",
+            "hash": "9d5e430f9f71fe120c1fee56d7c7ed6ec03e7624",
+            "location": "9d/5e/9d5e430f9f71fe120c1fee56d7c7ed6ec03e7624",
+            "to": "config/AppliedEnergistics2/recipes/generated/materials/processors.recipe",
+            "size": 428
+        },
+        {
+            "type": "file",
+            "hash": "5d429d02eccf950077d0134deb783071860b75c3",
+            "location": "5d/42/5d429d02eccf950077d0134deb783071860b75c3",
+            "to": "config/AppliedEnergistics2/recipes/generated/misc/chests.recipe",
+            "size": 405
+        },
+        {
+            "type": "file",
+            "hash": "2ee999309bbcf33d930f767db96d91c4457d11bc",
+            "location": "2e/e9/2ee999309bbcf33d930f767db96d91c4457d11bc",
+            "to": "config/AppliedEnergistics2/recipes/generated/misc/deconstruction.recipe",
+            "size": 317
+        },
+        {
+            "type": "file",
+            "hash": "e2b2a80a644d468d443b497e663044455c615108",
+            "location": "e2/b2/e2b2a80a644d468d443b497e663044455c615108",
+            "to": "config/AppliedEnergistics2/recipes/generated/misc/fluixpearl.recipe",
+            "size": 220
+        },
+        {
+            "type": "file",
+            "hash": "580669fedc7fa4497cf27743b55d91bde7a29585",
+            "location": "58/06/580669fedc7fa4497cf27743b55d91bde7a29585",
+            "to": "config/AppliedEnergistics2/recipes/generated/misc/grindstone.recipe",
+            "size": 564
+        },
+        {
+            "type": "file",
+            "hash": "3c70ab3973b3ee1bbce03dc5322450af530bcecc",
+            "location": "3c/70/3c70ab3973b3ee1bbce03dc5322450af530bcecc",
+            "to": "config/AppliedEnergistics2/recipes/generated/misc/index.recipe",
+            "size": 226
+        },
+        {
+            "type": "file",
+            "hash": "606c9b7ee06dceee90e78625f02797f547325fec",
+            "location": "60/6c/606c9b7ee06dceee90e78625f02797f547325fec",
+            "to": "config/AppliedEnergistics2/recipes/generated/misc/meteors.recipe",
+            "size": 197
+        },
+        {
+            "type": "file",
+            "hash": "dd74e2dab09d1965757cca7d81015892ae8d6acb",
+            "location": "dd/74/dd74e2dab09d1965757cca7d81015892ae8d6acb",
+            "to": "config/AppliedEnergistics2/recipes/generated/misc/seeds.recipe",
+            "size": 273
+        },
+        {
+            "type": "file",
+            "hash": "9c0546ccc56b55680e2b395738dc37f924a65e72",
+            "location": "9c/05/9c0546ccc56b55680e2b395738dc37f924a65e72",
+            "to": "config/AppliedEnergistics2/recipes/generated/misc/tinytnt.recipe",
+            "size": 89
+        },
+        {
+            "type": "file",
+            "hash": "19e5db3e6c700f2423faaa2c68f7a4cb579adc95",
+            "location": "19/e5/19e5db3e6c700f2423faaa2c68f7a4cb579adc95",
+            "to": "config/AppliedEnergistics2/recipes/generated/misc/vanilla.recipe",
+            "size": 732
+        },
+        {
+            "type": "file",
+            "hash": "f2ac08d9216db247cf096f045edd593c5ae22506",
+            "location": "f2/ac/f2ac08d9216db247cf096f045edd593c5ae22506",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/cellworkbench.recipe",
+            "size": 237
+        },
+        {
+            "type": "file",
+            "hash": "da93638b8ab008240dec083d4fdda27381cc832e",
+            "location": "da/93/da93638b8ab008240dec083d4fdda27381cc832e",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/controller.recipe",
+            "size": 311
+        },
+        {
+            "type": "file",
+            "hash": "810d5a4fb7f7de48c1b0bc1531b9f2de29fb213a",
+            "location": "81/0d/810d5a4fb7f7de48c1b0bc1531b9f2de29fb213a",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/crystal-processing.recipe",
+            "size": 424
+        },
+        {
+            "type": "file",
+            "hash": "c3fe5b654ae3cc7da65177b434b04be730fe30ee",
+            "location": "c3/fe/c3fe5b654ae3cc7da65177b434b04be730fe30ee",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/energy.recipe",
+            "size": 978
+        },
+        {
+            "type": "file",
+            "hash": "b4c760d2647b1d80799226b1a42075d9b75eefc4",
+            "location": "b4/c7/b4c760d2647b1d80799226b1a42075d9b75eefc4",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/index.recipe",
+            "size": 431
+        },
+        {
+            "type": "file",
+            "hash": "d0677978c18a311ac5f79ce90e06d28a0ed43be2",
+            "location": "d0/67/d0677978c18a311ac5f79ce90e06d28a0ed43be2",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/inscribers.recipe",
+            "size": 217
+        },
+        {
+            "type": "file",
+            "hash": "28eafdeabb242e68c9e9b5791092920cef99c8e8",
+            "location": "28/ea/28eafdeabb242e68c9e9b5791092920cef99c8e8",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/interfaces.recipe",
+            "size": 353
+        },
+        {
+            "type": "file",
+            "hash": "87f56e8ff21870f3977c5d0d52dfe7ececb5b62a",
+            "location": "87/f5/87f56e8ff21870f3977c5d0d52dfe7ececb5b62a",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/io.recipe",
+            "size": 372
+        },
+        {
+            "type": "file",
+            "hash": "6f3fb8a051afa42f4d3d765e35c77f71652f3ea0",
+            "location": "6f/3f/6f3fb8a051afa42f4d3d765e35c77f71652f3ea0",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/quantum.recipe",
+            "size": 567
+        },
+        {
+            "type": "file",
+            "hash": "402679fd4a4f4b8d7db9bd423b1f20c023cf25d0",
+            "location": "40/26/402679fd4a4f4b8d7db9bd423b1f20c023cf25d0",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/security.recipe",
+            "size": 229
+        },
+        {
+            "type": "file",
+            "hash": "eaaa3b92502d970f21927c63bf9fe0d3a5201988",
+            "location": "ea/aa/eaaa3b92502d970f21927c63bf9fe0d3a5201988",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/spatial-io.recipe",
+            "size": 385
+        },
+        {
+            "type": "file",
+            "hash": "4ddf5adfae8bdf31a162a2029ca70da0ce7e0e7b",
+            "location": "4d/df/4ddf5adfae8bdf31a162a2029ca70da0ce7e0e7b",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/blocks/storage.recipe",
+            "size": 369
+        },
+        {
+            "type": "file",
+            "hash": "11a4a54e3bd10e14e97c22a8bc83924dba8b0f02",
+            "location": "11/a4/11a4a54e3bd10e14e97c22a8bc83924dba8b0f02",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cables/covered.recipe",
+            "size": 3584
+        },
+        {
+            "type": "file",
+            "hash": "6cc57017fa7e67899f347b3c5795c0165fc9596c",
+            "location": "6c/c5/6cc57017fa7e67899f347b3c5795c0165fc9596c",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cables/dense.recipe",
+            "size": 3394
+        },
+        {
+            "type": "file",
+            "hash": "a04727b4fb99b5101485a3f073d38a8987ebbdc0",
+            "location": "a0/47/a04727b4fb99b5101485a3f073d38a8987ebbdc0",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cables/glass.recipe",
+            "size": 3319
+        },
+        {
+            "type": "file",
+            "hash": "b9853d883a7cac8a4aa8f01f0009298fcd58c582",
+            "location": "b9/85/b9853d883a7cac8a4aa8f01f0009298fcd58c582",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cables/index.recipe",
+            "size": 142
+        },
+        {
+            "type": "file",
+            "hash": "01fb8dc213b4f89351fe43c57984cf7b7e83229e",
+            "location": "01/fb/01fb8dc213b4f89351fe43c57984cf7b7e83229e",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cables/smart.recipe",
+            "size": 3342
+        },
+        {
+            "type": "file",
+            "hash": "214d42e56520f331106101581c5a05b9fbcc92bd",
+            "location": "21/4d/214d42e56520f331106101581c5a05b9fbcc92bd",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cells/empty.recipe",
+            "size": 260
+        },
+        {
+            "type": "file",
+            "hash": "118187d0b5b2fc6659053fc8b3ff0be43eca9a03",
+            "location": "11/81/118187d0b5b2fc6659053fc8b3ff0be43eca9a03",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cells/index.recipe",
+            "size": 233
+        },
+        {
+            "type": "file",
+            "hash": "64e34238f20e083f430286fca133b4363992fddb",
+            "location": "64/e3/64e34238f20e083f430286fca133b4363992fddb",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cells/spatial-components.recipe",
+            "size": 1008
+        },
+        {
+            "type": "file",
+            "hash": "8fd0c861f538a137e4ef8a716b8515377b42a17a",
+            "location": "8f/d0/8fd0c861f538a137e4ef8a716b8515377b42a17a",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cells/spatial.recipe",
+            "size": 1253
+        },
+        {
+            "type": "file",
+            "hash": "c76129e0ac5bf92fcb6a4e67fa2a374688b7abc1",
+            "location": "c7/61/c76129e0ac5bf92fcb6a4e67fa2a374688b7abc1",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cells/storage-components.recipe",
+            "size": 1170
+        },
+        {
+            "type": "file",
+            "hash": "4178fd1756413c81f1e14feaa4b86749eee853df",
+            "location": "41/78/4178fd1756413c81f1e14feaa4b86749eee853df",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cells/storage.recipe",
+            "size": 1571
+        },
+        {
+            "type": "file",
+            "hash": "11a125066e3c243382e79eaeede34589e8f403ad",
+            "location": "11/a1/11a125066e3c243382e79eaeede34589e8f403ad",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/cells/view.recipe",
+            "size": 339
+        },
+        {
+            "type": "file",
+            "hash": "1d9fb21f8a0a5087b35a75c440d5e5a58759ad4d",
+            "location": "1d/9f/1d9fb21f8a0a5087b35a75c440d5e5a58759ad4d",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/crafting/assembler.recipe",
+            "size": 292
+        },
+        {
+            "type": "file",
+            "hash": "f5021bd16e1c1bf48a81a487ea93d1fd8a96bd71",
+            "location": "f5/02/f5021bd16e1c1bf48a81a487ea93d1fd8a96bd71",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/crafting/cpu.recipe",
+            "size": 929
+        },
+        {
+            "type": "file",
+            "hash": "6e44390aa8fe3f5c85f1ff980f97c95bd796ec95",
+            "location": "6e/44/6e44390aa8fe3f5c85f1ff980f97c95bd796ec95",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/crafting/index.recipe",
+            "size": 116
+        },
+        {
+            "type": "file",
+            "hash": "a9cfc20851001c04825661ffb9fd15fbf0ce3d6b",
+            "location": "a9/cf/a9cfc20851001c04825661ffb9fd15fbf0ce3d6b",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/crafting/patterns.recipe",
+            "size": 271
+        },
+        {
+            "type": "file",
+            "hash": "f686aea3d3da878bce71d68744518b644d1aba18",
+            "location": "f6/86/f686aea3d3da878bce71d68744518b644d1aba18",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/index.recipe",
+            "size": 206
+        },
+        {
+            "type": "file",
+            "hash": "b51f3758ca980b7750875687aea65c0b998ea1a9",
+            "location": "b5/1f/b51f3758ca980b7750875687aea65c0b998ea1a9",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/parts/cable-anchor.recipe",
+            "size": 67
+        },
+        {
+            "type": "file",
+            "hash": "a7b416a8e75422c0325efa5e71accdf450346178",
+            "location": "a7/b4/a7b416a8e75422c0325efa5e71accdf450346178",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/parts/emitters.recipe",
+            "size": 97
+        },
+        {
+            "type": "file",
+            "hash": "b9b05165f56fa1acee2d3ceb349f1208b1ea1f3a",
+            "location": "b9/b0/b9b05165f56fa1acee2d3ceb349f1208b1ea1f3a",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/parts/index.recipe",
+            "size": 378
+        },
+        {
+            "type": "file",
+            "hash": "3e3a995156ceee95e018710e82d82e2b2d12b16c",
+            "location": "3e/3a/3e3a995156ceee95e018710e82d82e2b2d12b16c",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/parts/io-buses.recipe",
+            "size": 379
+        },
+        {
+            "type": "file",
+            "hash": "9bc043eed5bce73266d305889c031e2b178555b9",
+            "location": "9b/c0/9bc043eed5bce73266d305889c031e2b178555b9",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/parts/monitors.recipe",
+            "size": 231
+        },
+        {
+            "type": "file",
+            "hash": "6b145139e71c7f79c8a623718def7847c8bc2929",
+            "location": "6b/14/6b145139e71c7f79c8a623718def7847c8bc2929",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/parts/panels.recipe",
+            "size": 453
+        },
+        {
+            "type": "file",
+            "hash": "8ecd0bdc753f6404d59d1bcaa19f75dd5db0de2a",
+            "location": "8e/cd/8ecd0bdc753f6404d59d1bcaa19f75dd5db0de2a",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/parts/planes.recipe",
+            "size": 826
+        },
+        {
+            "type": "file",
+            "hash": "1cdcceb53cf4c617b38f9dd3abd6d7da2036f001",
+            "location": "1c/dc/1cdcceb53cf4c617b38f9dd3abd6d7da2036f001",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/parts/quartz-fiber.recipe",
+            "size": 125
+        },
+        {
+            "type": "file",
+            "hash": "c72fd8828d10bb679077302ff0881abcde9a2d23",
+            "location": "c7/2f/c72fd8828d10bb679077302ff0881abcde9a2d23",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/parts/terminals.recipe",
+            "size": 501
+        },
+        {
+            "type": "file",
+            "hash": "f5c92f70b9c7b76e852a00136d435a2330db7907",
+            "location": "f5/c9/f5c92f70b9c7b76e852a00136d435a2330db7907",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/parts/toggle-buses.recipe",
+            "size": 289
+        },
+        {
+            "type": "file",
+            "hash": "097939526d95dde483feb5c6c96e2ffe3dae0e04",
+            "location": "09/79/097939526d95dde483feb5c6c96e2ffe3dae0e04",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/parts/tunnels.recipe",
+            "size": 199
+        },
+        {
+            "type": "file",
+            "hash": "60af19918b25b53963ce8badc1c97c8786415c3a",
+            "location": "60/af/60af19918b25b53963ce8badc1c97c8786415c3a",
+            "to": "config/AppliedEnergistics2/recipes/generated/network/wireless.recipe",
+            "size": 608
+        },
+        {
+            "type": "file",
+            "hash": "edbb02e74bd1c67babfc4e0f257f234f96902a1b",
+            "location": "ed/bb/edbb02e74bd1c67babfc4e0f257f234f96902a1b",
+            "to": "config/AppliedEnergistics2/recipes/generated/oredict.recipe",
+            "size": 1333
+        },
+        {
+            "type": "file",
+            "hash": "ba15552abd7e7620e3d5d679d8d7513c41fa3abb",
+            "location": "ba/15/ba15552abd7e7620e3d5d679d8d7513c41fa3abb",
+            "to": "config/AppliedEnergistics2/recipes/generated/processing/factorization.recipe",
+            "size": 603
+        },
+        {
+            "type": "file",
+            "hash": "ab1a4f303f11c69111c328b8fb2984517c73c068",
+            "location": "ab/1a/ab1a4f303f11c69111c328b8fb2984517c73c068",
+            "to": "config/AppliedEnergistics2/recipes/generated/processing/grind.recipe",
+            "size": 181
+        },
+        {
+            "type": "file",
+            "hash": "e329f99159cc88fc9b2da1cd1b58a870e62bc3dc",
+            "location": "e3/29/e329f99159cc88fc9b2da1cd1b58a870e62bc3dc",
+            "to": "config/AppliedEnergistics2/recipes/generated/processing/hydraulicraft.recipe",
+            "size": 617
+        },
+        {
+            "type": "file",
+            "hash": "a59e347defb51a6e4d55baacc7e486af5f63920e",
+            "location": "a5/9e/a59e347defb51a6e4d55baacc7e486af5f63920e",
+            "to": "config/AppliedEnergistics2/recipes/generated/processing/ic2.recipe",
+            "size": 619
+        },
+        {
+            "type": "file",
+            "hash": "f843a39a0ae9e70e4959a4d745ed871ab32e1481",
+            "location": "f8/43/f843a39a0ae9e70e4959a4d745ed871ab32e1481",
+            "to": "config/AppliedEnergistics2/recipes/generated/processing/index.recipe",
+            "size": 270
+        },
+        {
+            "type": "file",
+            "hash": "97cd279326c9dec3e745cb1de7a837e9990b5bd2",
+            "location": "97/cd/97cd279326c9dec3e745cb1de7a837e9990b5bd2",
+            "to": "config/AppliedEnergistics2/recipes/generated/processing/mekanism.recipe",
+            "size": 645
+        },
+        {
+            "type": "file",
+            "hash": "02493bd31f17bde7129479a6934207bff3c870d1",
+            "location": "02/49/02493bd31f17bde7129479a6934207bff3c870d1",
+            "to": "config/AppliedEnergistics2/recipes/generated/processing/rotarycraft.recipe",
+            "size": 599
+        },
+        {
+            "type": "file",
+            "hash": "5ce99ec03d55f0e4b7c22161eedf9ac5fbbfa54f",
+            "location": "5c/e9/5ce99ec03d55f0e4b7c22161eedf9ac5fbbfa54f",
+            "to": "config/AppliedEnergistics2/recipes/generated/processing/te.recipe",
+            "size": 626
+        },
+        {
+            "type": "file",
+            "hash": "a62cb2dcefa98a8c347acf1d4982eb028c0dd59a",
+            "location": "a6/2c/a62cb2dcefa98a8c347acf1d4982eb028c0dd59a",
+            "to": "config/AppliedEnergistics2/recipes/generated/processing/vanilla.recipe",
+            "size": 308
+        },
+        {
+            "type": "file",
+            "hash": "e8f2972718c681cb49a73a000579af8fa849c8ca",
+            "location": "e8/f2/e8f2972718c681cb49a73a000579af8fa849c8ca",
+            "to": "config/AppliedEnergistics2/recipes/generated/tools/certus-quartz.recipe",
+            "size": 1327
+        },
+        {
+            "type": "file",
+            "hash": "96ef77993d91fbc6ab0f93b1a37309940b3f90b2",
+            "location": "96/ef/96ef77993d91fbc6ab0f93b1a37309940b3f90b2",
+            "to": "config/AppliedEnergistics2/recipes/generated/tools/index.recipe",
+            "size": 191
+        },
+        {
+            "type": "file",
+            "hash": "d28767659e08d5897e485ebf6cc9080d415fc3e2",
+            "location": "d2/87/d28767659e08d5897e485ebf6cc9080d415fc3e2",
+            "to": "config/AppliedEnergistics2/recipes/generated/tools/matter-cannon.recipe",
+            "size": 205
+        },
+        {
+            "type": "file",
+            "hash": "48888b7a56fd2bdecad05b9253d1fda023d2f7a6",
+            "location": "48/88/48888b7a56fd2bdecad05b9253d1fda023d2f7a6",
+            "to": "config/AppliedEnergistics2/recipes/generated/tools/misctools.recipe",
+            "size": 330
+        },
+        {
+            "type": "file",
+            "hash": "83065831130bbb86478fb6b6e447f828b69839d9",
+            "location": "83/06/83065831130bbb86478fb6b6e447f828b69839d9",
+            "to": "config/AppliedEnergistics2/recipes/generated/tools/nether-quartz.recipe",
+            "size": 1327
+        },
+        {
+            "type": "file",
+            "hash": "6b48f2af049996e5083992f12a1ba3e5d32c5fb8",
+            "location": "6b/48/6b48f2af049996e5083992f12a1ba3e5d32c5fb8",
+            "to": "config/AppliedEnergistics2/recipes/generated/tools/network.recipe",
+            "size": 815
+        },
+        {
+            "type": "file",
+            "hash": "967835263ce87d656e56ecd67468f45cd2ba556d",
+            "location": "96/78/967835263ce87d656e56ecd67468f45cd2ba556d",
+            "to": "config/AppliedEnergistics2/recipes/generated/tools/paintballs.recipe",
+            "size": 8769
+        },
+        {
+            "type": "file",
+            "hash": "1b81b78548b829f04b45531281fed6e1cc31a55f",
+            "location": "1b/81/1b81b78548b829f04b45531281fed6e1cc31a55f",
+            "to": "config/AppliedEnergistics2/recipes/items.csv",
+            "size": 459308
+        },
+        {
+            "type": "file",
+            "hash": "a3585260c46584490e9c04555cb4f3ba9230c17d",
+            "location": "a3/58/a3585260c46584490e9c04555cb4f3ba9230c17d",
+            "to": "config/AppliedEnergistics2/recipes/README.html",
+            "size": 14676
+        },
+        {
+            "type": "file",
+            "hash": "5f04646c8f2297ac903dbab9abb2904a64e8f271",
+            "location": "5f/04/5f04646c8f2297ac903dbab9abb2904a64e8f271",
+            "to": "config/AppliedEnergistics2/VersionChecker.cfg",
+            "size": 755
+        },
+        {
+            "type": "file",
+            "hash": "bd7b0450f72193f942f53c2bb59d761155ddf436",
+            "location": "bd/7b/bd7b0450f72193f942f53c2bb59d761155ddf436",
+            "to": "config/armourersWorkshop/client.cfg",
+            "size": 3467
+        },
+        {
+            "type": "file",
+            "hash": "e01e8134fcff2e68efac46aa0b92186742883fce",
+            "location": "e0/1e/e01e8134fcff2e68efac46aa0b92186742883fce",
+            "to": "config/armourersWorkshop/common.cfg",
+            "size": 3387
+        },
+        {
+            "type": "file",
+            "hash": "ca20c3cb5eddd344672f879a9868d122446015db",
+            "location": "ca/20/ca20c3cb5eddd344672f879a9868d122446015db",
+            "to": "config/armourersWorkshop/overrides.cfg",
+            "size": 18535
+        },
+        {
+            "type": "file",
+            "hash": "50c63c988153a583849ea34adb4e71186fbd1098",
+            "location": "50/c6/50c63c988153a583849ea34adb4e71186fbd1098",
+            "to": "config/aroma1997/Aroma1997Core.cfg",
+            "size": 374
+        },
+        {
+            "type": "file",
+            "hash": "69a3d238ee1e8cb8d9033a5111f974f60e51cfaf",
+            "location": "69/a3/69a3d238ee1e8cb8d9033a5111f974f60e51cfaf",
+            "to": "config/aroma1997/AromaBackup.cfg",
+            "size": 1192
+        },
+        {
+            "type": "file",
+            "hash": "581431eba3e884ca2d51f89b7b8f9b751267f086",
+            "location": "58/14/581431eba3e884ca2d51f89b7b8f9b751267f086",
+            "to": "config/aroma1997/AromaBackupRecovery.cfg",
+            "size": 168
+        },
+        {
+            "type": "file",
+            "hash": "6fdbc10b53873df608467d53802b3f271b74bf1c",
+            "location": "6f/db/6fdbc10b53873df608467d53802b3f271b74bf1c",
+            "to": "config/AWWayofTime.cfg",
+            "size": 17431
+        },
+        {
+            "type": "file",
+            "hash": "79317740d0e84a6dbba0043727d6dcc1a5b3cbd3",
+            "location": "79/31/79317740d0e84a6dbba0043727d6dcc1a5b3cbd3",
+            "to": "config/Baubles.cfg",
+            "size": 24
+        },
+        {
+            "type": "file",
+            "hash": "12ccba038d672d63617f9d42c0958c0cefb04e41",
+            "location": "12/cc/12ccba038d672d63617f9d42c0958c0cefb04e41",
+            "to": "config/BetterLoadingScreen/config.cfg",
+            "size": 924
+        },
+        {
+            "type": "file",
+            "hash": "d39caa53c373fa4d19efdad59ab7c55c1ae1980a",
+            "location": "d3/9c/d39caa53c373fa4d19efdad59ab7c55c1ae1980a",
+            "to": "config/BetterLoadingScreen/images.json",
+            "size": 1618
+        },
+        {
+            "type": "file",
+            "hash": "d39caa53c373fa4d19efdad59ab7c55c1ae1980a",
+            "location": "d3/9c/d39caa53c373fa4d19efdad59ab7c55c1ae1980a",
+            "to": "config/BetterLoadingScreen/preset one.json",
+            "size": 1618
+        },
+        {
+            "type": "file",
+            "hash": "b264ab2203ccc33e686e387c9dc02f1fc277455d",
+            "location": "b2/64/b264ab2203ccc33e686e387c9dc02f1fc277455d",
+            "to": "config/BetterLoadingScreen/preset two.json",
+            "size": 1405
+        },
+        {
+            "type": "file",
+            "hash": "e017090ceed1510c5840c9972138d3e6c5775352",
+            "location": "e0/17/e017090ceed1510c5840c9972138d3e6c5775352",
+            "to": "config/betterrain/config.txt",
+            "size": 70
+        },
+        {
+            "type": "file",
+            "hash": "afa5830a60e3c63dac3cebb153ef5f5f0dbf2d52",
+            "location": "af/a5/afa5830a60e3c63dac3cebb153ef5f5f0dbf2d52",
+            "to": "config/BigReactors/BigReactors.cfg",
+            "size": 1564
+        },
+        {
+            "type": "file",
+            "hash": "d91610813b34790d981af33550dc1964f18d4532",
+            "location": "d9/16/d91610813b34790d981af33550dc1964f18d4532",
+            "to": "config/biomesoplenty/biomegen.cfg",
+            "size": 3278
+        },
+        {
+            "type": "file",
+            "hash": "8f7bae232cd0819ef69aa128afa0a3d464e0a5e8",
+            "location": "8f/7b/8f7bae232cd0819ef69aa128afa0a3d464e0a5e8",
+            "to": "config/biomesoplenty/biomeweights.cfg",
+            "size": 1571
+        },
+        {
+            "type": "file",
+            "hash": "4439fa12b69babb8144677fd6d301da894368e28",
+            "location": "44/39/4439fa12b69babb8144677fd6d301da894368e28",
+            "to": "config/biomesoplenty/ids.cfg",
+            "size": 2456
+        },
+        {
+            "type": "file",
+            "hash": "52b9ad60d91e957260759d5a4ec6823e7300a3b9",
+            "location": "52/b9/52b9ad60d91e957260759d5a4ec6823e7300a3b9",
+            "to": "config/biomesoplenty/main.cfg",
+            "size": 346
+        },
+        {
+            "type": "file",
+            "hash": "02640a26f58abf5a15ddfbc3b1bcc0b6c8ad2198",
+            "location": "02/64/02640a26f58abf5a15ddfbc3b1bcc0b6c8ad2198",
+            "to": "config/biomesoplenty/misc.cfg",
+            "size": 492
+        },
+        {
+            "type": "file",
+            "hash": "af3b91c6d0d213c7535c0fe7dc45d9880db75561",
+            "location": "af/3b/af3b91c6d0d213c7535c0fe7dc45d9880db75561",
+            "to": "config/biomesoplenty/structures/strongholds.cfg",
+            "size": 1483
+        },
+        {
+            "type": "file",
+            "hash": "0e39ce29d877693328822f741f6fbf94ba1dfbe6",
+            "location": "0e/39/0e39ce29d877693328822f741f6fbf94ba1dfbe6",
+            "to": "config/biomesoplenty/structures/villages.cfg",
+            "size": 1641
+        },
+        {
+            "type": "file",
+            "hash": "879b67bf6d3d39cdf982fc8b970252598e5251e0",
+            "location": "87/9b/879b67bf6d3d39cdf982fc8b970252598e5251e0",
+            "to": "config/biomesoplenty/terraingen.cfg",
+            "size": 751
+        },
+        {
+            "type": "file",
+            "hash": "d1331848d75bca0ca7d1060e8244fe586281a623",
+            "location": "d1/33/d1331848d75bca0ca7d1060e8244fe586281a623",
+            "to": "config/BloodMagic/schematics/Ampitheter.json",
+            "size": 83376
+        },
+        {
+            "type": "file",
+            "hash": "a314630f6195e5487a2d5e94f9d21304fc65b9b5",
+            "location": "a3/14/a314630f6195e5487a2d5e94f9d21304fc65b9b5",
+            "to": "config/BloodMagic/schematics/LavaLight.json",
+            "size": 9648
+        },
+        {
+            "type": "file",
+            "hash": "367657a35d5506dd264561e05b2deeb666bf1768",
+            "location": "36/76/367657a35d5506dd264561e05b2deeb666bf1768",
+            "to": "config/BloodMagic/schematics/MedFarm1.json",
+            "size": 32786
+        },
+        {
+            "type": "file",
+            "hash": "6b4a01153aad631ba3dfdd12573563d259626da4",
+            "location": "6b/4a/6b4a01153aad631ba3dfdd12573563d259626da4",
+            "to": "config/BloodMagic/schematics/MedForge1.json",
+            "size": 29575
+        },
+        {
+            "type": "file",
+            "hash": "44c12ec7e4e547dce5433fbe1e0a0dd4971fb3b9",
+            "location": "44/c1/44c12ec7e4e547dce5433fbe1e0a0dd4971fb3b9",
+            "to": "config/BloodMagic/schematics/MedHouse1.json",
+            "size": 16595
+        },
+        {
+            "type": "file",
+            "hash": "ec5e893aeab3eebe3d2874a1de21fa5e084d5349",
+            "location": "ec/5e/ec5e893aeab3eebe3d2874a1de21fa5e084d5349",
+            "to": "config/BloodMagic/schematics/MedMossyForge.json",
+            "size": 18725
+        },
+        {
+            "type": "file",
+            "hash": "3ba08149dea9725f9d96367b3d45d04ae05ba0d2",
+            "location": "3b/a0/3ba08149dea9725f9d96367b3d45d04ae05ba0d2",
+            "to": "config/BloodMagic/schematics/MossyCellar1.json",
+            "size": 16883
+        },
+        {
+            "type": "file",
+            "hash": "7bc8ef24afdc9b469962f32ece0a3d79e35f1ad9",
+            "location": "7b/c8/7bc8ef24afdc9b469962f32ece0a3d79e35f1ad9",
+            "to": "config/BloodMagic/schematics/MossyGourdHouse1.json",
+            "size": 20474
+        },
+        {
+            "type": "file",
+            "hash": "477a47d069e4f10cb5e44f99389c2e91dd615ebb",
+            "location": "47/7a/477a47d069e4f10cb5e44f99389c2e91dd615ebb",
+            "to": "config/BloodMagic/schematics/MossyTheatre.json",
+            "size": 39233
+        },
+        {
+            "type": "file",
+            "hash": "1aca88d20753e608856f5be65803b572ba7650a2",
+            "location": "1a/ca/1aca88d20753e608856f5be65803b572ba7650a2",
+            "to": "config/BloodMagic/schematics/QuickDemonStructure1.json",
+            "size": 10622
+        },
+        {
+            "type": "file",
+            "hash": "392015035f3aca9b55e8632f6c1c3db69b1e9c7b",
+            "location": "39/20/392015035f3aca9b55e8632f6c1c3db69b1e9c7b",
+            "to": "config/BloodMagic/schematics/SmallHouse1.json",
+            "size": 10770
+        },
+        {
+            "type": "file",
+            "hash": "20547d031276cc7f0806e385687d56d15e7ff6ee",
+            "location": "20/54/20547d031276cc7f0806e385687d56d15e7ff6ee",
+            "to": "config/BloodMagic/schematics/SmallHouse2.json",
+            "size": 11431
+        },
+        {
+            "type": "file",
+            "hash": "c01a34e05e82a9aed942edc7af3d4c5be5af9274",
+            "location": "c0/1a/c01a34e05e82a9aed942edc7af3d4c5be5af9274",
+            "to": "config/BloodMagic/schematics/SmallMossyTower1.json",
+            "size": 20724
+        },
+        {
+            "type": "file",
+            "hash": "7dc8aef0989d6b8eda8d175430074e256371cda4",
+            "location": "7d/c8/7dc8aef0989d6b8eda8d175430074e256371cda4",
+            "to": "config/BloodMagic/schematics/SmallTower1.json",
+            "size": 19924
+        },
+        {
+            "type": "file",
+            "hash": "cf90b391520e661359d06f32d1e3e88a2f542142",
+            "location": "cf/90/cf90b391520e661359d06f32d1e3e88a2f542142",
+            "to": "config/Botania.cfg",
+            "size": 64682
+        },
+        {
+            "type": "file",
+            "hash": "2ebe991d0d15eb6e3d7b9b640caeffa4d6be10a5",
+            "location": "2e/be/2ebe991d0d15eb6e3d7b9b640caeffa4d6be10a5",
+            "to": "config/bspkrsCore.cfg",
+            "size": 1388
+        },
+        {
+            "type": "file",
+            "hash": "a42abd071e44d4f7ff926d6547f464f2e12d290d",
+            "location": "a4/2a/a42abd071e44d4f7ff926d6547f464f2e12d290d",
+            "to": "config/CodeChickenCore.cfg",
+            "size": 831
+        },
+        {
+            "type": "file",
+            "hash": "e925c19e3c9b46a99988cebe1754dc1cf201aa16",
+            "location": "e9/25/e925c19e3c9b46a99988cebe1754dc1cf201aa16",
+            "to": "config/cofh/core/client.cfg",
+            "size": 2941
+        },
+        {
+            "type": "file",
+            "hash": "bb593025ab593d29917183f1751f10e7e3157919",
+            "location": "bb/59/bb593025ab593d29917183f1751f10e7e3157919",
+            "to": "config/cofh/core/common.cfg",
+            "size": 1913
+        },
+        {
+            "type": "file",
+            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "location": "da/39/da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "to": "config/cofh/core/friends.cfg"
+        },
+        {
+            "type": "file",
+            "hash": "337ec97b831db4c970de5f565dc142463df0cb39",
+            "location": "33/7e/337ec97b831db4c970de5f565dc142463df0cb39",
+            "to": "config/cofh/core/loot.cfg",
+            "size": 690
+        },
+        {
+            "type": "file",
+            "hash": "548313831372b12778eb6bb7fe9edcc89f732fbe",
+            "location": "54/83/548313831372b12778eb6bb7fe9edcc89f732fbe",
+            "to": "config/cofh/thermalexpansion/client.cfg",
+            "size": 1583
+        },
+        {
+            "type": "file",
+            "hash": "037e6cff2ed780c09bb9cde265124bb84749c201",
+            "location": "03/7e/037e6cff2ed780c09bb9cde265124bb84749c201",
+            "to": "config/cofh/thermalexpansion/common.cfg",
+            "size": 13747
+        },
+        {
+            "type": "file",
+            "hash": "e76b4d74940669f0808d0389f0ef36d87681e269",
+            "location": "e7/6b/e76b4d74940669f0808d0389f0ef36d87681e269",
+            "to": "config/cofh/thermalexpansion/florbs.cfg",
+            "size": 2141
+        },
+        {
+            "type": "file",
+            "hash": "5fbcad6afdeb9890cb5e5a3bc7650f5beae7c44c",
+            "location": "5f/bc/5fbcad6afdeb9890cb5e5a3bc7650f5beae7c44c",
+            "to": "config/cofh/thermalexpansion/fuels.cfg",
+            "size": 3107
+        },
+        {
+            "type": "file",
+            "hash": "24b7c0b2e669f11a823f3bd9934ae2ea76c15324",
+            "location": "24/b7/24b7c0b2e669f11a823f3bd9934ae2ea76c15324",
+            "to": "config/cofh/thermalfoundation/client.cfg",
+            "size": 418
+        },
+        {
+            "type": "file",
+            "hash": "c2d3559398efb087c3650156621c45f2d5ad0b85",
+            "location": "c2/d3/c2d3559398efb087c3650156621c45f2d5ad0b85",
+            "to": "config/cofh/thermalfoundation/common.cfg",
+            "size": 12019
+        },
+        {
+            "type": "file",
+            "hash": "d7cce5306688fd83632c6f892c96db723d1cfd78",
+            "location": "d7/cc/d7cce5306688fd83632c6f892c96db723d1cfd78",
+            "to": "config/cofh/thermalfoundation/lexicon-whitelist.cfg",
+            "size": 8082
+        },
+        {
+            "type": "file",
+            "hash": "9cd0943ee608eab5af7e82da03efdba269790459",
+            "location": "9c/d0/9cd0943ee608eab5af7e82da03efdba269790459",
+            "to": "config/cofh/world/ThermalFoundation-Ores.json",
+            "size": 3445
+        },
+        {
+            "type": "file",
+            "hash": "5bc7fa108b3cd92857273f5bc7ae6f9b1e1872f0",
+            "location": "5b/c7/5bc7fa108b3cd92857273f5bc7ae6f9b1e1872f0",
+            "to": "config/cofh/world/Vanilla.json",
+            "size": 3790
+        },
+        {
+            "type": "file",
+            "hash": "e1ac14b41045836d7ccf9551312ae708e3f21a93",
+            "location": "e1/ac/e1ac14b41045836d7ccf9551312ae708e3f21a93",
+            "to": "config/CompactSolars.cfg",
+            "size": 272
+        },
+        {
+            "type": "file",
+            "hash": "04c5a9923aebd8fc5873fc264625b77772e45c41",
+            "location": "04/c5/04c5a9923aebd8fc5873fc264625b77772e45c41",
+            "to": "config/CustomMainMenu/mainmenu.json",
+            "size": 3107
+        },
+        {
+            "type": "file",
+            "hash": "34d519bfedc2baecd86fa24b6ec064e9969c0d64",
+            "location": "34/d5/34d519bfedc2baecd86fa24b6ec064e9969c0d64",
+            "to": "config/CustomNpcs.cfg",
+            "size": 1343
+        },
+        {
+            "type": "file",
+            "hash": "2d2ab5978287e95904ec072e58c7a2b9ba071dfa",
+            "location": "2d/2a/2d2ab5978287e95904ec072e58c7a2b9ba071dfa",
+            "to": "config/DummyCore.cfg",
+            "size": 552
+        },
+        {
+            "type": "file",
+            "hash": "2efca3124e0407e038222e38fc34de6e30c0a05d",
+            "location": "2e/fc/2efca3124e0407e038222e38fc34de6e30c0a05d",
+            "to": "config/endercore/cropConfig.json",
+            "size": 444
+        },
+        {
+            "type": "file",
+            "hash": "b99aa6f45efa5c22b597feac8c6c7cf2bacd881b",
+            "location": "b9/9a/b99aa6f45efa5c22b597feac8c6c7cf2bacd881b",
+            "to": "config/endercore/endercore.cfg",
+            "size": 2806
+        },
+        {
+            "type": "file",
+            "hash": "d6c629fec61b6b28dad4acea6a52ef6cd50c161e",
+            "location": "d6/c6/d6c629fec61b6b28dad4acea6a52ef6cd50c161e",
+            "to": "config/enderio/AlloySmelterRecipes_Core.xml",
+            "size": 15161
+        },
+        {
+            "type": "file",
+            "hash": "79e30991ff702e0d0c377ed8249abe5efe12f79f",
+            "location": "79/e3/79e30991ff702e0d0c377ed8249abe5efe12f79f",
+            "to": "config/enderio/AlloySmelterRecipes_User.xml",
+            "size": 1085
+        },
+        {
+            "type": "file",
+            "hash": "6112ae8ac865cdfc34e7c8b4be4559c1550aa92a",
+            "location": "61/12/6112ae8ac865cdfc34e7c8b4be4559c1550aa92a",
+            "to": "config/enderio/EnchanterRecipes_Core.xml",
+            "size": 5307
+        },
+        {
+            "type": "file",
+            "hash": "d5801ab22f789f9b497bb49910bf73fd596dd4ba",
+            "location": "d5/80/d5801ab22f789f9b497bb49910bf73fd596dd4ba",
+            "to": "config/enderio/EnchanterRecipes_User.xml",
+            "size": 867
+        },
+        {
+            "type": "file",
+            "hash": "aae7559824ecb464eee6b5019ccad8af52d329e6",
+            "location": "aa/e7/aae7559824ecb464eee6b5019ccad8af52d329e6",
+            "to": "config/enderio/EnderIO.cfg",
+            "size": 40319
+        },
+        {
+            "type": "file",
+            "hash": "314a5adf927d05cfd8258b8ec71ee27cfbb42a8c",
+            "location": "31/4a/314a5adf927d05cfd8258b8ec71ee27cfbb42a8c",
+            "to": "config/enderio/OreDictionaryPreferences_Core.xml",
+            "size": 4497
+        },
+        {
+            "type": "file",
+            "hash": "5ba0ab20422bab73e77a9d6cefbd48b580f0c801",
+            "location": "5b/a0/5ba0ab20422bab73e77a9d6cefbd48b580f0c801",
+            "to": "config/enderio/OreDictionaryPreferences_User.xml",
+            "size": 136
+        },
+        {
+            "type": "file",
+            "hash": "4bd75f803f2f738a41241be643680f1a6853d724",
+            "location": "4b/d7/4bd75f803f2f738a41241be643680f1a6853d724",
+            "to": "config/enderio/PainterPaintSources_Core.xml",
+            "size": 1508
+        },
+        {
+            "type": "file",
+            "hash": "78c578a1097ba37a4a7c603fd5123efc328d5625",
+            "location": "78/c5/78c578a1097ba37a4a7c603fd5123efc328d5625",
+            "to": "config/enderio/PainterPaintSources_User.xml",
+            "size": 170
+        },
+        {
+            "type": "file",
+            "hash": "d20506ba0c28a033a81bd47d4fe07b0182968662",
+            "location": "d2/05/d20506ba0c28a033a81bd47d4fe07b0182968662",
+            "to": "config/enderio/PoweredSpawnerConfig_Core.json",
+            "size": 1012
+        },
+        {
+            "type": "file",
+            "hash": "0ba2bbfe2aad1ca964748696d3f8954dfdb91149",
+            "location": "0b/a2/0ba2bbfe2aad1ca964748696d3f8954dfdb91149",
+            "to": "config/enderio/PoweredSpawnerConfig_User.json",
+            "size": 220
+        },
+        {
+            "type": "file",
+            "hash": "a65f65571bc34411daf2e4a412c35c45f99b8aed",
+            "location": "a6/5f/a65f65571bc34411daf2e4a412c35c45f99b8aed",
+            "to": "config/enderio/SAGMillRecipes_Core.xml",
+            "size": 104459
+        },
+        {
+            "type": "file",
+            "hash": "0393f6b46d24edce7bdc3725c1cecd94c7bece79",
+            "location": "03/93/0393f6b46d24edce7bdc3725c1cecd94c7bece79",
+            "to": "config/enderio/SAGMillRecipes_User.xml",
+            "size": 2989
+        },
+        {
+            "type": "file",
+            "hash": "63922ed67160a8eff27e6b7764edd72f1ecffa5d",
+            "location": "63/92/63922ed67160a8eff27e6b7764edd72f1ecffa5d",
+            "to": "config/enderio/SliceAndSpliceRecipes_Core.xml",
+            "size": 3171
+        },
+        {
+            "type": "file",
+            "hash": "9ae1947d28daad4070cd1ded57c6823ffbd8337c",
+            "location": "9a/e1/9ae1947d28daad4070cd1ded57c6823ffbd8337c",
+            "to": "config/enderio/SliceAndSpliceRecipes_User.xml",
+            "size": 50
+        },
+        {
+            "type": "file",
+            "hash": "a728ca22ffe01b371586505088dd333ea32fd73c",
+            "location": "a7/28/a728ca22ffe01b371586505088dd333ea32fd73c",
+            "to": "config/enderio/VatRecipes_Core.xml",
+            "size": 6083
+        },
+        {
+            "type": "file",
+            "hash": "a5e7f0dd70bb61514ddd8cd0ab416404ce2122c9",
+            "location": "a5/e7/a5e7f0dd70bb61514ddd8cd0ab416404ce2122c9",
+            "to": "config/enderio/VatRecipes_User.xml",
+            "size": 28
+        },
+        {
+            "type": "file",
+            "hash": "34e3dc3d20853fc8a5fcdabb75a993c4fcbd178c",
+            "location": "34/e3/34e3dc3d20853fc8a5fcdabb75a993c4fcbd178c",
+            "to": "config/evilcraft.cfg",
+            "size": 17213
+        },
+        {
+            "type": "file",
+            "hash": "fa493aaf21da8efb01cb8042ff94d5796adb692d",
+            "location": "fa/49/fa493aaf21da8efb01cb8042ff94d5796adb692d",
+            "to": "config/ExtraUtilities.cfg",
+            "size": 5612
+        },
+        {
+            "type": "file",
+            "hash": "01bf71b6e6bb38d2a9431688c45066e891a918c8",
+            "location": "01/bf/01bf71b6e6bb38d2a9431688c45066e891a918c8",
+            "to": "config/fastcraft.ini",
+            "size": 4530
+        },
+        {
+            "type": "file",
+            "hash": "391500505b38593014c9107c467f463a0aca0750",
+            "location": "39/15/391500505b38593014c9107c467f463a0aca0750",
+            "to": "config/fgtXray.cfg",
+            "size": 3498
+        },
+        {
+            "type": "file",
+            "hash": "6c8b4397b26c1aebdaf6df5c05f406c443a52380",
+            "location": "6c/8b/6c8b4397b26c1aebdaf6df5c05f406c443a52380",
+            "to": "config/forge.cfg",
+            "size": 2365
+        },
+        {
+            "type": "file",
+            "hash": "5cebbd950e8dfd612ac435b71589459e0578b330",
+            "location": "5c/eb/5cebbd950e8dfd612ac435b71589459e0578b330",
+            "to": "config/forgeChunkLoading.cfg",
+            "size": 2025
+        },
+        {
+            "type": "file",
+            "hash": "650bdd4646a7bbc35fe5faba91fd1f4cf8ccabd5",
+            "location": "65/0b/650bdd4646a7bbc35fe5faba91fd1f4cf8ccabd5",
+            "to": "config/gliby_vc/ClientSettings.ini",
+            "size": 385
+        },
+        {
+            "type": "file",
+            "hash": "79c22ae18356d440bb2399a8cd71d12675664dda",
+            "location": "79/c2/79c22ae18356d440bb2399a8cd71d12675664dda",
+            "to": "config/gliby_vc/ServerSettings.ini",
+            "size": 1442
+        },
+        {
+            "type": "file",
+            "hash": "d2c8e27e19b6356349a93e10b89739114c79e071",
+            "location": "d2/c8/d2c8e27e19b6356349a93e10b89739114c79e071",
+            "to": "config/harvestcraft.cfg",
+            "size": 7364
+        },
+        {
+            "type": "file",
+            "hash": "cb38e7aa59d813d759c70805e047904002ca632b",
+            "location": "cb/38/cb38e7aa59d813d759c70805e047904002ca632b",
+            "to": "config/hqm/editmode.cfg",
+            "size": 463
+        },
+        {
+            "type": "file",
+            "hash": "60cdb1c447d123b595f994d15958486737c267d7",
+            "location": "60/cd/60cdb1c447d123b595f994d15958486737c267d7",
+            "to": "config/hqm/front.png",
+            "size": 62943
+        },
+        {
+            "type": "file",
+            "hash": "431a9dcf82b0227095b089d02ac74b2830a066c4",
+            "location": "43/1a/431a9dcf82b0227095b089d02ac74b2830a066c4",
+            "to": "config/hqm/hqmconfig.cfg",
+            "size": 1133
+        },
+        {
+            "type": "file",
+            "hash": "00b0f272229e7b278c95e1b9f066d70d34f4487f",
+            "location": "00/b0/00b0f272229e7b278c95e1b9f066d70d34f4487f",
+            "to": "config/hqm/quests.hqm",
+            "size": 173514
+        },
+        {
+            "type": "file",
+            "hash": "00b0f272229e7b278c95e1b9f066d70d34f4487f",
+            "location": "00/b0/00b0f272229e7b278c95e1b9f066d70d34f4487f",
+            "to": "config/hqm/quests.hqm-backup",
+            "size": 173514
+        },
+        {
+            "type": "file",
+            "hash": "d14294cf214da975027a26ac0b0bd49e14467077",
+            "location": "d1/42/d14294cf214da975027a26ac0b0bd49e14467077",
+            "to": "config/IC2.ini",
+            "size": 6212
+        },
+        {
+            "type": "file",
+            "hash": "11525645ac8ef5911d8b0302b2d477186ea06cc2",
+            "location": "11/52/11525645ac8ef5911d8b0302b2d477186ea06cc2",
+            "to": "config/iChunUtil.cfg",
+            "size": 1780
+        },
+        {
+            "type": "file",
+            "hash": "79317740d0e84a6dbba0043727d6dcc1a5b3cbd3",
+            "location": "79/31/79317740d0e84a6dbba0043727d6dcc1a5b3cbd3",
+            "to": "config/iChunUtil_KeyBinds.cfg",
+            "size": 24
+        },
+        {
+            "type": "file",
+            "hash": "95332a4437c1a05f2a0c363d67edcdc28fa69fda",
+            "location": "95/33/95332a4437c1a05f2a0c363d67edcdc28fa69fda",
+            "to": "config/IguanaTinkerTweaks/main.cfg",
+            "size": 14814
+        },
+        {
+            "type": "file",
+            "hash": "94ae5bca649d2ba3fa5ee7026ff5bd302414d296",
+            "location": "94/ae/94ae5bca649d2ba3fa5ee7026ff5bd302414d296",
+            "to": "config/IguanaTinkerTweaks/Modules.cfg",
+            "size": 1106
+        },
+        {
+            "type": "file",
+            "hash": "f97dbe72c3e7f74a1dc9e53b26e7281cbbb2b3bb",
+            "location": "f9/7d/f97dbe72c3e7f74a1dc9e53b26e7281cbbb2b3bb",
+            "to": "config/IguanaTinkerTweaks/restrictions.cfg",
+            "size": 5472
+        },
+        {
+            "type": "file",
+            "hash": "6d677878981a2adcefe1ec0e673f1257335d7348",
+            "location": "6d/67/6d677878981a2adcefe1ec0e673f1257335d7348",
+            "to": "config/ImmersiveEngineering.cfg",
+            "size": 17061
+        },
+        {
+            "type": "file",
+            "hash": "e11373fdac07cf5a683186adec0d0e3ac3324278",
+            "location": "e1/13/e11373fdac07cf5a683186adec0d0e3ac3324278",
+            "to": "config/InvTweaks.cfg",
+            "size": 671
+        },
+        {
+            "type": "file",
+            "hash": "cf7e4a3443bde9740a4227605af6174480bde05c",
+            "location": "cf/7e/cf7e4a3443bde9740a4227605af6174480bde05c",
+            "to": "config/InvTweaksRules.txt",
+            "size": 1352
+        },
+        {
+            "type": "file",
+            "hash": "cba7829d87a629711ed7fb6fe867fa9c5d5390c5",
+            "location": "cb/a7/cba7829d87a629711ed7fb6fe867fa9c5d5390c5",
+            "to": "config/InvTweaksTree.txt",
+            "size": 43373
+        },
+        {
+            "type": "file",
+            "hash": "2e8cdb23f2e0590994d57fccfd011ff02d5b2ba0",
+            "location": "2e/8c/2e8cdb23f2e0590994d57fccfd011ff02d5b2ba0",
+            "to": "config/ironbackpacks.cfg",
+            "size": 18480
+        },
+        {
+            "type": "file",
+            "hash": "931ce1d1321e8a9a79041cc77c7f24abd1dfa3f2",
+            "location": "93/1c/931ce1d1321e8a9a79041cc77c7f24abd1dfa3f2",
+            "to": "config/IronChest.cfg",
+            "size": 111
+        },
+        {
+            "type": "file",
+            "hash": "ef591a3baf16269309a27c0dd4b9bc5befbcd397",
+            "location": "ef/59/ef591a3baf16269309a27c0dd4b9bc5befbcd397",
+            "to": "config/JABBA.cfg",
+            "size": 2503
+        },
+        {
+            "type": "file",
+            "hash": "10fa3718492a5a45194cfdcd2393c5010d9dc9ec",
+            "location": "10/fa/10fa3718492a5a45194cfdcd2393c5010d9dc9ec",
+            "to": "config/journeymap_ModInfo.cfg",
+            "size": 371
+        },
+        {
+            "type": "file",
+            "hash": "b2eaca340dd58bb83424900de43f0b1c4d24927e",
+            "location": "b2/ea/b2eaca340dd58bb83424900de43f0b1c4d24927e",
+            "to": "config/lootbags.cfg",
+            "size": 4789
+        },
+        {
+            "type": "file",
+            "hash": "14243e5dcc0245a56653ef3da7fecd81d5d44a0c",
+            "location": "14/24/14243e5dcc0245a56653ef3da7fecd81d5d44a0c",
+            "to": "config/Lootbags_BagConfig.cfg",
+            "size": 7278
+        },
+        {
+            "type": "file",
+            "hash": "52bfae3d0c2717c4213cc9e5b9a1c9ef40aabf01",
+            "location": "52/bf/52bfae3d0c2717c4213cc9e5b9a1c9ef40aabf01",
+            "to": "config/MagicalCrops/Crafting.cfg",
+            "size": 4385
+        },
+        {
+            "type": "file",
+            "hash": "6376aed162486256ff9aaca7b8b58c67682fcba9",
+            "location": "63/76/6376aed162486256ff9aaca7b8b58c67682fcba9",
+            "to": "config/MagicalCrops/CropDisableConfig.cfg",
+            "size": 1898
+        },
+        {
+            "type": "file",
+            "hash": "08433c76ee9eaccd7ea4bfccb18a207c796b5fd0",
+            "location": "08/43/08433c76ee9eaccd7ea4bfccb18a207c796b5fd0",
+            "to": "config/MagicalCrops/MagicalCropsMain.cfg",
+            "size": 3218
+        },
+        {
+            "type": "file",
+            "hash": "a9da3f96b8962c7b368d46eb89471035db80ce2a",
+            "location": "a9/da/a9da3f96b8962c7b368d46eb89471035db80ce2a",
+            "to": "config/mcjtylib.cfg",
+            "size": 7275
+        },
+        {
+            "type": "file",
+            "hash": "e47207974665cbe0998cc8c115f067f83dce0a5a",
+            "location": "e4/72/e47207974665cbe0998cc8c115f067f83dce0a5a",
+            "to": "config/mekanism/BoxBlacklist.txt",
+            "size": 164
+        },
+        {
+            "type": "file",
+            "hash": "c2b4ff44a08b746513848d8657ba111b54097e19",
+            "location": "c2/b4/c2b4ff44a08b746513848d8657ba111b54097e19",
+            "to": "config/Mekanism.cfg",
+            "size": 11957
+        },
+        {
+            "type": "file",
+            "hash": "3afbefc6852d959f51ad47d5bea836e159ad8713",
+            "location": "3a/fb/3afbefc6852d959f51ad47d5bea836e159ad8713",
+            "to": "config/microblocks.cfg",
+            "size": 488
+        },
+        {
+            "type": "file",
+            "hash": "9c9e3ec6fb2c91a5c11883e4dabdf48c4e35c0be",
+            "location": "9c/9e/9c9e3ec6fb2c91a5c11883e4dabdf48c4e35c0be",
+            "to": "config/multipart.cfg",
+            "size": 362
+        },
+        {
+            "type": "file",
+            "hash": "9950762e37aa332eaa06cb822ca8a6368040bd03",
+            "location": "99/50/9950762e37aa332eaa06cb822ca8a6368040bd03",
+            "to": "config/NEI/client.cfg",
+            "size": 1517
+        },
+        {
+            "type": "file",
+            "hash": "ac6cb2ea1f56842b51cc55833d6a653bd45ec834",
+            "location": "ac/6c/ac6cb2ea1f56842b51cc55833d6a653bd45ec834",
+            "to": "config/NEID.cfg",
+            "size": 461
+        },
+        {
+            "type": "file",
+            "hash": "8a578916f2b6b4f5b234bcb0ab54da790babcf1e",
+            "location": "8a/57/8a578916f2b6b4f5b234bcb0ab54da790babcf1e",
+            "to": "config/PhoenixStudios/ArsenalMod.cfg",
+            "size": 88
+        },
+        {
+            "type": "file",
+            "hash": "54d5d7fa0320571e7639d151cab2d718aec8fd6b",
+            "location": "54/d5/54d5d7fa0320571e7639d151cab2d718aec8fd6b",
+            "to": "config/rfpr.cfg",
+            "size": 849
+        },
+        {
+            "type": "file",
+            "hash": "a181d2a05ab2f48fe4c251f9f6c846067f032ac3",
+            "location": "a1/81/a181d2a05ab2f48fe4c251f9f6c846067f032ac3",
+            "to": "config/rftools/dimlets.cfg",
+            "size": 31254
+        },
+        {
+            "type": "file",
+            "hash": "158dfd7d76289c5aef65a59c6ca1ab1832ef089b",
+            "location": "15/8d/158dfd7d76289c5aef65a59c6ca1ab1832ef089b",
+            "to": "config/rftools/main.cfg",
+            "size": 78044
+        },
+        {
+            "type": "file",
+            "hash": "a722faee10477bba6f25fdc4a6a3d0a73160ceb8",
+            "location": "a7/22/a722faee10477bba6f25fdc4a6a3d0a73160ceb8",
+            "to": "config/SlimeKnights/Mantle.cfg",
+            "size": 332
+        },
+        {
+            "type": "file",
+            "hash": "a5abc06463ac37bd537484119d1ccffa678118b2",
+            "location": "a5/ab/a5abc06463ac37bd537484119d1ccffa678118b2",
+            "to": "config/splash.properties",
+            "size": 340
+        },
+        {
+            "type": "file",
+            "hash": "17c0757d59921bded78fe5c5ec4c046db0652a42",
+            "location": "17/c0/17c0757d59921bded78fe5c5ec4c046db0652a42",
+            "to": "config/TaintedMagic.cfg",
+            "size": 414
+        },
+        {
+            "type": "file",
+            "hash": "d57400c4e49d1f1c190ab929cc09b795590fc3d0",
+            "location": "d5/74/d57400c4e49d1f1c190ab929cc09b795590fc3d0",
+            "to": "config/Technomancy.cfg",
+            "size": 3625
+        },
+        {
+            "type": "file",
+            "hash": "a0938fbc51d268b19ed512d8dbfba9d319218c36",
+            "location": "a0/93/a0938fbc51d268b19ed512d8dbfba9d319218c36",
+            "to": "config/Thaumcraft.cfg",
+            "size": 9040
+        },
+        {
+            "type": "file",
+            "hash": "a23c0f696362e4b22b5ed12ea28125061c9a08fa",
+            "location": "a2/3c/a23c0f696362e4b22b5ed12ea28125061c9a08fa",
+            "to": "config/thaumcraftneiplugin.cfg",
+            "size": 126
+        },
+        {
+            "type": "file",
+            "hash": "0abc0d6e305a8fc1e44d8aa814b3c25fed76ad24",
+            "location": "0a/bc/0abc0d6e305a8fc1e44d8aa814b3c25fed76ad24",
+            "to": "config/ThaumicHorizons.cfg",
+            "size": 374
+        },
+        {
+            "type": "file",
+            "hash": "984f7130c5b540476b5a7814dab4b04d94bd8384",
+            "location": "98/4f/984f7130c5b540476b5a7814dab4b04d94bd8384",
+            "to": "config/ThaumicTinkerer.cfg",
+            "size": 4593
+        },
+        {
+            "type": "file",
+            "hash": "d0bf7ec97755e7e8b86ab4fa76106a18d1beb1cf",
+            "location": "d0/bf/d0bf7ec97755e7e8b86ab4fa76106a18d1beb1cf",
+            "to": "config/TinkersConstruct.cfg",
+            "size": 5911
+        },
+        {
+            "type": "file",
+            "hash": "ec15bef66151ff3b1fb8598173eb10de8e5da5e5",
+            "location": "ec/15/ec15bef66151ff3b1fb8598173eb10de8e5da5e5",
+            "to": "config/TinkersModules.cfg",
+            "size": 582
+        },
+        {
+            "type": "file",
+            "hash": "7c079083008f699972b3570303c5832466da45fd",
+            "location": "7c/07/7c079083008f699972b3570303c5832466da45fd",
+            "to": "config/TravellersGear.cfg",
+            "size": 545
+        },
+        {
+            "type": "file",
+            "hash": "ef7b5126d32b393cc9d66b1f32e2e23f2bec05c9",
+            "location": "ef/7b/ef7b5126d32b393cc9d66b1f32e2e23f2bec05c9",
+            "to": "config/TravellersGear_inv.cfg",
+            "size": 6245
+        },
+        {
+            "type": "file",
+            "hash": "14556af15a7973aa735b9e142d8541c24b23f4b8",
+            "location": "14/55/14556af15a7973aa735b9e142d8541c24b23f4b8",
+            "to": "config/Treecapitator.cfg",
+            "size": 26174
+        },
+        {
+            "type": "file",
+            "hash": "c29a3d37e29f68f296d270de598fcb4960de42b4",
+            "location": "c2/9a/c29a3d37e29f68f296d270de598fcb4960de42b4",
+            "to": "config/UniqueNames.txt",
+            "size": 183484
+        },
+        {
+            "type": "file",
+            "hash": "903bd040a6044529a95f8d00fee057bca5bbda99",
+            "location": "90/3b/903bd040a6044529a95f8d00fee057bca5bbda99",
+            "to": "config/Waila.cfg",
+            "size": 5151
+        },
+        {
+            "type": "file",
+            "hash": "05ccfd11b8adbb2de7842002c984336eecafdbec",
+            "location": "05/cc/05ccfd11b8adbb2de7842002c984336eecafdbec",
+            "to": "config/WailaHarvestability.cfg",
+            "size": 227
+        },
+        {
+            "type": "file",
+            "hash": "9fb1741150dfe03b79b65b8206ba6b89bee32817",
+            "location": "9f/b1/9fb1741150dfe03b79b65b8206ba6b89bee32817",
+            "to": "config/witchery.cfg",
+            "size": 6825
+        },
+        {
+            "type": "file",
+            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "location": "da/39/da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "to": "config/witchery_debug.cfg"
+        },
+        {
+            "type": "file",
+            "hash": "1b4a2a17a6e946f719e5f6bfc3991b5b0830cce2",
+            "location": "1b/4a/1b4a2a17a6e946f719e5f6bfc3991b5b0830cce2",
+            "to": "config/WitchingGadgets.cfg",
+            "size": 2003
+        },
+        {
+            "type": "file",
+            "hash": "2d32666287cc0b565822f04421fc9e9c27b9afd4",
+            "location": "https://files.forgecdn.net/files/2280/862/1.7.10_AM2-1.4.0.009.jar",
+            "to": "mods/1.7.10_AM2-1.4.0.009.jar",
+            "size": 21575745
+        },
+        {
+            "type": "file",
+            "hash": "d68695c9adc721258b4a4eb8e09157a990ee4d4b",
+            "location": "https://files.forgecdn.net/files/2416/815/AdvancedThaumaturgy-2.0-1.7.10-30.jar",
+            "to": "mods/AdvancedThaumaturgy-2.0-1.7.10-30.jar",
+            "size": 760231
+        },
+        {
+            "type": "file",
+            "hash": "cdc3f95c7a0ad28938c3b51a4c8826852818e095",
+            "location": "https://files.forgecdn.net/files/2284/130/AgriCraft-1.7.10-1.5.0.jar",
+            "to": "mods/AgriCraft-1.7.10-1.5.0.jar",
+            "size": 1156745
+        },
+        {
+            "type": "file",
+            "hash": "bc1698fbce79e6769d6c5f395fe692de3ce642b4",
+            "location": "https://files.forgecdn.net/files/2221/721/AnimationAPI-1.7.10-1.2.4.jar",
+            "to": "mods/AnimationAPI-1.7.10-1.2.4.jar",
+            "size": 14859
+        },
+        {
+            "type": "file",
+            "hash": "e8ada3103524805d4a84b544bdf8c286bbc2e2c7",
+            "location": "https://files.forgecdn.net/files/2296/430/appliedenergistics2-rv3-beta-6.jar",
+            "to": "mods/appliedenergistics2-rv3-beta-6.jar",
+            "size": 2924325
+        },
+        {
+            "type": "file",
+            "hash": "7df28eacfd46b1b60c2e2f369b31388b2f5928ac",
+            "location": "https://files.forgecdn.net/files/2609/484/Armourers-Workshop-1.7.10-0.48.3.jar",
+            "to": "mods/Armourers-Workshop-1.7.10-0.48.3.jar",
+            "size": 1980121
+        },
+        {
+            "type": "file",
+            "hash": "f86607a5748c70d4614502115070e0e63a266810",
+            "location": "https://files.forgecdn.net/files/2257/644/Aroma1997Core-1.7.10-1.0.2.16.jar",
+            "to": "mods/Aroma1997Core-1.7.10-1.0.2.16.jar",
+            "size": 159243
+        },
+        {
+            "type": "file",
+            "hash": "6ea72981f34953d39538c206efd34f79ee8860b0",
+            "location": "https://files.forgecdn.net/files/2284/754/AromaBackup-1.7.10-0.1.0.0.jar",
+            "to": "mods/AromaBackup-1.7.10-0.1.0.0.jar",
+            "size": 51332
+        },
+        {
+            "type": "file",
+            "hash": "1d8ff64e71325662e99f696fdfdc59626a9383b1",
+            "location": "https://files.forgecdn.net/files/2655/83/arsenalmod-1.0.jar",
+            "to": "mods/arsenalmod-1.0.jar",
+            "size": 5309553
+        },
+        {
+            "type": "file",
+            "hash": "4ea59fe020056c1a3e08f0362a87f5165c9bf28a",
+            "location": "https://files.forgecdn.net/files/2412/269/BarrierBlock-1.7.10-0.2.jar",
+            "to": "mods/BarrierBlock-1.7.10-0.2.jar",
+            "size": 120276
+        },
+        {
+            "type": "file",
+            "hash": "b6e6ce2d0476d1d53686440f2fc70d2a27e289c2",
+            "location": "https://files.forgecdn.net/files/2224/857/Baubles-1.7.10-1.0.1.10.jar",
+            "to": "mods/Baubles-1.7.10-1.0.1.10.jar",
+            "size": 95415
+        },
+        {
+            "type": "file",
+            "hash": "c9d673415deca85afb42e7e698d932691f27d8a8",
+            "location": "https://files.forgecdn.net/files/2414/751/BetterLoadingScreen-1.3.10.jar",
+            "to": "mods/BetterLoadingScreen-1.3.10.jar",
+            "size": 84054
+        },
+        {
+            "type": "file",
+            "hash": "4766538f3f13055e53292d6bb863046294e078f2",
+            "location": "https://files.forgecdn.net/files/2282/591/BigReactors-0.4.3A.jar",
+            "to": "mods/BigReactors-0.4.3A.jar",
+            "size": 771107
+        },
+        {
+            "type": "file",
+            "hash": "9b519305b01bc64498f0049d524fe1acf6b3ee76",
+            "location": "https://files.forgecdn.net/files/2264/826/BloodMagic-1.7.10-1.3.3-17.jar",
+            "to": "mods/BloodMagic-1.7.10-1.3.3-17.jar",
+            "size": 9198412
+        },
+        {
+            "type": "file",
+            "hash": "eee543e33c0f57c93d3d83815576cc96236f56f4",
+            "location": "https://files.forgecdn.net/files/2283/837/Botania r1.8-249.jar",
+            "to": "mods/Botania r1.8-249.jar",
+            "size": 15977344
+        },
+        {
+            "type": "file",
+            "hash": "98f63c1705c297517c905a6a07b91d7f5683f131",
+            "location": "https://files.forgecdn.net/files/2262/89/CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+            "to": "mods/CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+            "size": 145782
+        },
+        {
+            "type": "file",
+            "hash": "b7d66be19a6898232f5498a50ac0207109a3b2e6",
+            "location": "https://files.forgecdn.net/files/2388/750/CoFHCore-[1.7.10]3.1.4-329.jar",
+            "to": "mods/CoFHCore-[1.7.10]3.1.4-329.jar",
+            "size": 1230511
+        },
+        {
+            "type": "file",
+            "hash": "8f5c8ba48d44b9a1eddd93fd9a58464f9ad9597b",
+            "location": "https://files.forgecdn.net/files/2283/982/CosmeticArmorReworked-1.7.10-v6b.jar",
+            "to": "mods/CosmeticArmorReworked-1.7.10-v6b.jar",
+            "size": 44132
+        },
+        {
+            "type": "file",
+            "hash": "0e66ff90ed90e4a923a84335f5edfde8e323f772",
+            "location": "https://files.forgecdn.net/files/2256/5/CustomMainMenu-MC1.7.10-1.8.jar",
+            "to": "mods/CustomMainMenu-MC1.7.10-1.8.jar",
+            "size": 110992
+        },
+        {
+            "type": "file",
+            "hash": "2d75096f72bda3e95dd69e94d6c79787da11b78a",
+            "location": "https://files.forgecdn.net/files/2495/406/CustomNPCs_1.7.10d(29oct17).jar",
+            "to": "mods/CustomNPCs_1.7.10d(29oct17).jar",
+            "size": 9007920
+        },
+        {
+            "type": "file",
+            "hash": "4c13a275afbacf0684cc1507887bb2f209487daf",
+            "location": "https://files.forgecdn.net/files/2244/260/DummyCore1.13.jar",
+            "to": "mods/DummyCore1.13.jar",
+            "size": 106884
+        },
+        {
+            "type": "file",
+            "hash": "ee6e69efdf487e02aeca400e3aedd132159c623b",
+            "location": "https://files.forgecdn.net/files/2331/48/EnderCore-1.7.10-0.2.0.39_beta.jar",
+            "to": "mods/EnderCore-1.7.10-0.2.0.39_beta.jar",
+            "size": 467824
+        },
+        {
+            "type": "file",
+            "hash": "5530034feaec37e306c63b64a66689c8d69d7702",
+            "location": "https://files.forgecdn.net/files/2322/348/EnderIO-1.7.10-2.3.0.429_beta.jar",
+            "to": "mods/EnderIO-1.7.10-2.3.0.429_beta.jar",
+            "size": 4756103
+        },
+        {
+            "type": "file",
+            "hash": "d0eb9bfc98bfb7811b17396807709b3c5f92ecf7",
+            "location": "https://files.forgecdn.net/files/2342/16/EvilCraft-1.7.10-0.9.12.jar",
+            "to": "mods/EvilCraft-1.7.10-0.9.12.jar",
+            "size": 3599197
+        },
+        {
+            "type": "file",
+            "hash": "5abef956579df31d86f54cc20bf7ac8ba7d481a8",
+            "location": "https://files.forgecdn.net/files/2264/383/extrautilities-1.2.12.jar",
+            "to": "mods/extrautilities-1.2.12.jar",
+            "size": 2149827
+        },
+        {
+            "type": "file",
+            "hash": "196ebe3d9bb2085e000f0cc6be177d30d0b7190d",
+            "location": "https://files.forgecdn.net/files/2522/249/fastcraft-1.25.jar",
+            "to": "mods/fastcraft-1.25.jar",
+            "size": 183482
+        },
+        {
+            "type": "file",
+            "hash": "b46c0d444f0d61e3c3e98626e49ec834993c8417",
+            "location": "https://files.forgecdn.net/files/2338/148/iChunUtil-4.2.3.jar",
+            "to": "mods/iChunUtil-4.2.3.jar",
+            "size": 213084
+        },
+        {
+            "type": "file",
+            "hash": "7a7446ad042d8e8b80dde7ffb1ca1dad80bf2de5",
+            "location": "https://files.forgecdn.net/files/2288/329/IguanaTinkerTweaks-1.7.10-2.1.6.jar",
+            "to": "mods/IguanaTinkerTweaks-1.7.10-2.1.6.jar",
+            "size": 427425
+        },
+        {
+            "type": "file",
+            "hash": "8081a380300a5cdfa05b5aa07cfa882e2deb37f3",
+            "location": "https://files.forgecdn.net/files/2296/786/ImmersiveEngineering-0.7.6.jar",
+            "to": "mods/ImmersiveEngineering-0.7.6.jar",
+            "size": 3610234
+        },
+        {
+            "type": "file",
+            "hash": "5971e86ce56440e9be57fdc2100c034c7ab07a0d",
+            "location": "https://files.forgecdn.net/files/2339/301/IronBackpacks-1.7.10-1.2.20.jar",
+            "to": "mods/IronBackpacks-1.7.10-1.2.20.jar",
+            "size": 354672
+        },
+        {
+            "type": "file",
+            "hash": "2888052ca2727a875ac13fa266e74b53e90cfab4",
+            "location": "https://files.forgecdn.net/files/2230/908/ironchest-1.7.10-6.0.62.742-universal.jar",
+            "to": "mods/ironchest-1.7.10-6.0.62.742-universal.jar",
+            "size": 158104
+        },
+        {
+            "type": "file",
+            "hash": "75184ae9e39cf0df7f1e10338e568d02f9992e97",
+            "location": "https://files.forgecdn.net/files/2302/354/Jabba-1.2.2_1.7.10.jar",
+            "to": "mods/Jabba-1.2.2_1.7.10.jar",
+            "size": 445166
+        },
+        {
+            "type": "file",
+            "hash": "c1b1fd82c11f81a196ca6e599bd1fe78fd2fe01a",
+            "location": "https://files.forgecdn.net/files/2296/716/journeymap-1.7.10-5.1.4p1-unlimited.jar",
+            "to": "mods/journeymap-1.7.10-5.1.4p1-unlimited.jar",
+            "size": 1717502
+        },
+        {
+            "type": "file",
+            "hash": "b7681d6f2490e149ca13d1de13054e0ee874dc00",
+            "location": "https://files.forgecdn.net/files/2356/424/LootBags-1.7.10-2.0.17.jar",
+            "to": "mods/LootBags-1.7.10-2.0.17.jar",
+            "size": 186439
+        },
+        {
+            "type": "file",
+            "hash": "249697a2f07213ea00c899b22608ef32821ee631",
+            "location": "https://files.forgecdn.net/files/2236/937/magicalcrops-4.0.0_PUBLIC_BETA_3.jar",
+            "to": "mods/magicalcrops-4.0.0_PUBLIC_BETA_3.jar",
+            "size": 3068067
+        },
+        {
+            "type": "file",
+            "hash": "56552968dc8df9a3ad0f909024d086f3748844dc",
+            "location": "https://files.forgecdn.net/files/2264/244/Mantle-1.7.10-0.3.2b.jar",
+            "to": "mods/Mantle-1.7.10-0.3.2b.jar",
+            "size": 202458
+        },
+        {
+            "type": "file",
+            "hash": "ade40bb060ac948c60d44e17a2d8dd27771aeed1",
+            "location": "https://files.forgecdn.net/files/2272/449/mcjtylib-1.8.1.jar",
+            "to": "mods/mcjtylib-1.8.1.jar",
+            "size": 187881
+        },
+        {
+            "type": "file",
+            "hash": "dad70774a4e0f4b0e934f13a20d5d1024baddb35",
+            "location": "https://files.forgecdn.net/files/2426/270/Mekanism-1.7.10-9.1.0.281.jar",
+            "to": "mods/Mekanism-1.7.10-9.1.0.281.jar",
+            "size": 15780244
+        },
+        {
+            "type": "file",
+            "hash": "fea4e0be793e9f88ad5fe59f8ccb95127924a5f1",
+            "location": "https://files.forgecdn.net/files/2426/269/MekanismGenerators-1.7.10-9.1.0.281.jar",
+            "to": "mods/MekanismGenerators-1.7.10-9.1.0.281.jar",
+            "size": 253341
+        },
+        {
+            "type": "file",
+            "hash": "67c10b6bd856840594374d45b647e251213d39f3",
+            "location": "https://files.forgecdn.net/files/2426/268/MekanismTools-1.7.10-9.1.0.281.jar",
+            "to": "mods/MekanismTools-1.7.10-9.1.0.281.jar",
+            "size": 31517
+        },
+        {
+            "type": "file",
+            "hash": "11ae0e9f55184e3f50b388ec8294200ae3ebd253",
+            "location": "https://files.forgecdn.net/files/2259/434/MineTweaker3-1.7.10-3.0.10B.jar",
+            "to": "mods/MineTweaker3-1.7.10-3.0.10B.jar",
+            "size": 927376
+        },
+        {
+            "type": "file",
+            "hash": "1fef53ebcd48f003fa0799de51e86ad113e3af7c",
+            "location": "https://files.forgecdn.net/files/2209/265/MouseTweaks-2.4.4-mc1.7.10.jar",
+            "to": "mods/MouseTweaks-2.4.4-mc1.7.10.jar",
+            "size": 51898
+        },
+        {
+            "type": "file",
+            "hash": "054f26e8206968ec1ee98625750ec83cd393e096",
+            "location": "https://files.forgecdn.net/files/2308/819/NotEnoughIDs-1.4.3.4.jar",
+            "to": "mods/NotEnoughIDs-1.4.3.4.jar",
+            "size": 55390
+        },
+        {
+            "type": "file",
+            "hash": "a7587d48f19b6e9e8791c0e3d2e9aca3b36882c7",
+            "location": "https://files.forgecdn.net/files/2302/312/NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+            "to": "mods/NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+            "size": 513136
+        },
+        {
+            "type": "file",
+            "hash": "5f85c3fcbf8586a438030c216c4fe37c7a6402c0",
+            "location": "https://files.forgecdn.net/files/2270/206/Pam's HarvestCraft 1.7.10Lb.jar",
+            "to": "mods/Pam's HarvestCraft 1.7.10Lb.jar",
+            "size": 2482753
+        },
+        {
+            "type": "file",
+            "hash": "1ffe69eb1ac0b0499f3bdaf8990c85e20e69327f",
+            "location": "https://files.forgecdn.net/files/2433/392/ReAuth-3.5.0.jar",
+            "to": "mods/ReAuth-3.5.0.jar",
+            "size": 23838
+        },
+        {
+            "type": "file",
+            "hash": "823bb2e30b44175833acfefb77a8f3bef46a3767",
+            "location": "https://files.forgecdn.net/files/2292/845/ResourceLoader-MC1.7.10-1.3.jar",
+            "to": "mods/ResourceLoader-MC1.7.10-1.3.jar",
+            "size": 13037
+        },
+        {
+            "type": "file",
+            "hash": "f68cb455b9bd7b88054bfb82c534a0f2e609374b",
+            "location": "https://files.forgecdn.net/files/2287/287/rftools-4.23.jar",
+            "to": "mods/rftools-4.23.jar",
+            "size": 3393513
+        },
+        {
+            "type": "file",
+            "hash": "1b0391f510c8014b939ce2f80cafeb6c70645780",
+            "location": "https://files.forgecdn.net/files/2462/744/Tainted-Magic-r7.82.jar",
+            "to": "mods/Tainted-Magic-r7.82.jar",
+            "size": 3800566
+        },
+        {
+            "type": "file",
+            "hash": "2bdfe707d0adb5b51be97526c4a37a26d3f83f06",
+            "location": "https://files.forgecdn.net/files/2286/894/tcinventoryscan-mc1.7.10-1.0.11.jar",
+            "to": "mods/tcinventoryscan-mc1.7.10-1.0.11.jar",
+            "size": 17202
+        },
+        {
+            "type": "file",
+            "hash": "35e7ee78cd1f8b185373a6b91de252fa14755f3f",
+            "location": "https://files.forgecdn.net/files/2277/12/TConstruct-1.7.10-1.8.8.build991.jar",
+            "to": "mods/TConstruct-1.7.10-1.8.8.build991.jar",
+            "size": 5606642
+        },
+        {
+            "type": "file",
+            "hash": "67b2db393eaa8e5265de58b79728501aca3433b7",
+            "location": "https://files.forgecdn.net/files/2295/819/Technomancy - 0.12.5 - 1.7.10.jar",
+            "to": "mods/Technomancy - 0.12.5 - 1.7.10.jar",
+            "size": 1273799
+        },
+        {
+            "type": "file",
+            "hash": "3f51b473f9ef7a94d1a9e01f6784af1cfd811649",
+            "location": "https://files.forgecdn.net/files/2227/552/Thaumcraft-1.7.10-4.2.3.5.jar",
+            "to": "mods/Thaumcraft-1.7.10-4.2.3.5.jar",
+            "size": 12565807
+        },
+        {
+            "type": "file",
+            "hash": "1cad010865aa455cc5eafbffc4ef915ac4ab2ecc",
+            "location": "https://files.forgecdn.net/files/2241/913/thaumcraftneiplugin-1.7.10-1.7a.jar",
+            "to": "mods/thaumcraftneiplugin-1.7.10-1.7a.jar",
+            "size": 68794
+        },
+        {
+            "type": "file",
+            "hash": "babd8db9b769688340ac51a341355f1854337929",
+            "location": "https://files.forgecdn.net/files/2265/882/thaumichorizons-1.7.10-1.1.9.jar",
+            "to": "mods/thaumichorizons-1.7.10-1.1.9.jar",
+            "size": 2456405
+        },
+        {
+            "type": "file",
+            "hash": "e50a70d3f65bdfb59c2fef2db2d6515aa1e640f1",
+            "location": "https://files.forgecdn.net/files/2232/793/ThaumicTinkerer-2.5-1.7.10-164.jar",
+            "to": "mods/ThaumicTinkerer-2.5-1.7.10-164.jar",
+            "size": 2141043
+        },
+        {
+            "type": "file",
+            "hash": "818a917f38c7bc9535ef7001bb1bd2cec41ca256",
+            "location": "https://files.forgecdn.net/files/2233/282/Thaumic_Upholstery-1.2_1.7.10.jar",
+            "to": "mods/Thaumic_Upholstery-1.2_1.7.10.jar",
+            "size": 580876
+        },
+        {
+            "type": "file",
+            "hash": "ae0d16da59401fee4ef4dcda42fa2b85efee96bc",
+            "location": "https://files.forgecdn.net/files/2388/758/ThermalExpansion-[1.7.10]4.1.5-248.jar",
+            "to": "mods/ThermalExpansion-[1.7.10]4.1.5-248.jar",
+            "size": 2614932
+        },
+        {
+            "type": "file",
+            "hash": "5a8b566c655738fe02c749206f3e87d32ce74015",
+            "location": "https://files.forgecdn.net/files/2388/752/ThermalFoundation-[1.7.10]1.2.6-118.jar",
+            "to": "mods/ThermalFoundation-[1.7.10]1.2.6-118.jar",
+            "size": 2316321
+        },
+        {
+            "type": "file",
+            "hash": "5a3b97262bd10cf639974251bfda1a35f4b61127",
+            "location": "https://files.forgecdn.net/files/2246/472/TiCTooltips-mc1.7.10-1.2.5.jar",
+            "to": "mods/TiCTooltips-mc1.7.10-1.2.5.jar",
+            "size": 52002
+        },
+        {
+            "type": "file",
+            "hash": "5e59570024a10dbf53f154f428f01f5fc2180b9d",
+            "location": "https://files.forgecdn.net/files/2262/112/TravellersGear-1.7.10-1.16.6.jar",
+            "to": "mods/TravellersGear-1.7.10-1.16.6.jar",
+            "size": 312717
+        },
+        {
+            "type": "file",
+            "hash": "7a874ee79a88cf66bd5355c8393069b3ac39c631",
+            "location": "https://files.forgecdn.net/files/2230/518/Waila-1.5.10_1.7.10.jar",
+            "to": "mods/Waila-1.5.10_1.7.10.jar",
+            "size": 544821
+        },
+        {
+            "type": "file",
+            "hash": "365f9bb7e73037a6df5d9e13c45069f3a58402d2",
+            "location": "https://files.forgecdn.net/files/2226/443/WailaHarvestability-mc1.7.x-1.1.2.jar",
+            "to": "mods/WailaHarvestability-mc1.7.x-1.1.2.jar",
+            "size": 25539
+        },
+        {
+            "type": "file",
+            "hash": "b3f02f7049eedef71ebd7ad192c3cc23cf1268c9",
+            "location": "https://files.forgecdn.net/files/2234/410/witchery-1.7.10-0.24.1.jar",
+            "to": "mods/witchery-1.7.10-0.24.1.jar",
+            "size": 7009956
+        },
+        {
+            "type": "file",
+            "hash": "12e2a31d7a5f48759a932682414d875d35956020",
+            "location": "https://files.forgecdn.net/files/2262/119/WitchingGadgets-1.7.10-1.1.10.jar",
+            "to": "mods/WitchingGadgets-1.7.10-1.1.10.jar",
+            "size": 4217711
+        },
+        {
+            "type": "file",
+            "hash": "87f540bb1e3b502924044c6482e04c2b8cb8a049",
+            "location": "https://files.forgecdn.net/files/2218/771/[1.7.10]Treecapitator-universal-2.0.4.jar",
+            "to": "mods/[1.7.10]Treecapitator-universal-2.0.4.jar",
+            "size": 94792
+        },
+        {
+            "type": "file",
+            "hash": "54a189ea7dc117348bcc36e7d6f7511a88b39ab3",
+            "location": "54/a1/54a189ea7dc117348bcc36e7d6f7511a88b39ab3",
+            "to": "resources/modpack/bg.jpg",
+            "size": 780125
+        },
+        {
+            "type": "file",
+            "hash": "45d79d2f92e56398b62715e3b568cb6c08aeb308",
+            "location": "45/d7/45d79d2f92e56398b62715e3b568cb6c08aeb308",
+            "to": "resources/modpack/buttonbg.png",
+            "size": 5024
+        },
+        {
+            "type": "file",
+            "hash": "b6ab1cb2921c9b4886d619dea74ebaff9d122148",
+            "location": "b6/ab/b6ab1cb2921c9b4886d619dea74ebaff9d122148",
+            "to": "resources/modpack/discord.png",
+            "size": 13305
+        },
+        {
+            "type": "file",
+            "hash": "62592baf4ede1a1ed41161023b22c3559c24755b",
+            "location": "62/59/62592baf4ede1a1ed41161023b22c3559c24755b",
+            "to": "resources/modpack/jt.png",
+            "size": 87842
+        },
+        {
+            "type": "file",
+            "hash": "6bac98f15adfab6401322b17b026d3371e5a77a5",
+            "location": "6b/ac/6bac98f15adfab6401322b17b026d3371e5a77a5",
+            "to": "resources/modpack/paypal.png",
+            "size": 11273
+        },
+        {
+            "type": "file",
+            "hash": "bf78fa6af8aef6054b9a99326f06cf3b7ed919c0",
+            "location": "bf/78/bf78fa6af8aef6054b9a99326f06cf3b7ed919c0",
+            "to": "servers.dat",
+            "size": 8707
+        }
+    ],
+    "versionManifest": {
+        "id": "1.7.10",
+        "time": 1464781548000,
+        "releaseTime": 1400088563000,
+        "assets": "1.7.10",
+        "type": "release",
+        "minecraftArguments": "--username${auth_player_name}--version${version_name}--gameDir${game_directory}--assetsDir${assets_root}--assetIndex${assets_index_name}--uuid${auth_uuid}--accessToken${auth_access_token}--userProperties${user_properties}--userType${user_type} --tweakClass cpw.mods.fml.common.launcher.FMLTweaker",
+        "mainClass": "net.minecraft.launchwrapper.Launch",
+        "minimumLauncherVersion": 13,
+        "libraries": [
+            {
+                "name": "net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "net.minecraft:launchwrapper:1.12"
+            },
+            {
+                "name": "org.ow2.asm:asm-all:5.0.3"
+            },
+            {
+                "name": "com.typesafe.akka:akka-actor_2.11:2.3.3",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "com.typesafe:config:1.2.1",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "org.scala-lang:scala-actors-migration_2.11:1.1.0",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "org.scala-lang:scala-compiler:2.11.1",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "org.scala-lang:scala-library:2.11.1",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "org.scala-lang:scala-parser-combinators_2.11:1.0.1",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "org.scala-lang:scala-reflect:2.11.1",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "org.scala-lang:scala-swing_2.11:1.0.1",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "org.scala-lang:scala-xml_2.11:1.0.2",
+                "url": "http://files.minecraftforge.net/maven/"
+            },
+            {
+                "name": "lzma:lzma:0.0.1"
+            },
+            {
+                "name": "com.google.guava:guava:17.0"
+            },
+            {
+                "name": "org.apache.commons:commons-lang3:3.3.2"
+            },
+            {
+                "name": "com.ibm.icu:icu4j-core-mojang:51.2"
+            },
+            {
+                "name": "io.netty:netty-all:4.0.10.Final"
+            },
+            {
+                "name": "com.google.code.gson:gson:2.2.4"
+            },
+            {
+                "name": "net.sf.jopt-simple:jopt-simple:4.5"
+            },
+            {
+                "name": "com.paulscode:soundsystem:20120107"
+            },
+            {
+                "name": "commons-codec:commons-codec:1.9"
+            },
+            {
+                "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1"
+            },
+            {
+                "name": "com.paulscode:librarylwjglopenal:20100824"
+            },
+            {
+                "name": "com.paulscode:libraryjavasound:20101123"
+            },
+            {
+                "name": "com.mojang:netty:1.6"
+            },
+            {
+                "name": "com.mojang:realms:1.3.5"
+            },
+            {
+                "name": "com.mojang:authlib:1.5.21"
+            },
+            {
+                "name": "org.apache.httpcomponents:httpclient:4.3.3"
+            },
+            {
+                "name": "net.sf.trove4j:trove4j:3.0.3"
+            },
+            {
+                "name": "org.lwjgl.lwjgl:lwjgl:2.9.1"
+            },
+            {
+                "name": "com.google.guava:guava:15.0"
+            },
+            {
+                "name": "org.apache.logging.log4j:log4j-core:2.0-beta9"
+            },
+            {
+                "name": "com.paulscode:codecjorbis:20101023"
+            },
+            {
+                "name": "tv.twitch:twitch-platform:5.16",
+                "natives": {
+                    "linux": "natives-linux",
+                    "osx": "natives-osx",
+                    "windows": "natives-windows-${arch}"
+                },
+                "extract": {
+                    "exclude": [
+                        "META-INF/"
+                    ]
+                },
+                "rules": [
+                    {
+                        "action": "allow"
+                    },
+                    {
+                        "action": "disallow",
+                        "os": {
+                            "name": "linux"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "commons-logging:commons-logging:1.1.3"
+            },
+            {
+                "name": "org.apache.httpcomponents:httpcore:4.3.2"
+            },
+            {
+                "name": "org.apache.commons:commons-lang3:3.1"
+            },
+            {
+                "name": "commons-io:commons-io:2.4"
+            },
+            {
+                "name": "net.java.jutils:jutils:1.0.0"
+            },
+            {
+                "name": "com.paulscode:codecwav:20101023"
+            },
+            {
+                "name": "net.java.jinput:jinput-platform:2.0.5",
+                "natives": {
+                    "linux": "natives-linux",
+                    "osx": "natives-osx",
+                    "windows": "natives-windows"
+                },
+                "extract": {
+                    "exclude": [
+                        "META-INF/"
+                    ]
+                }
+            },
+            {
+                "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1",
+                "natives": {
+                    "linux": "natives-linux",
+                    "osx": "natives-osx",
+                    "windows": "natives-windows"
+                },
+                "extract": {
+                    "exclude": [
+                        "META-INF/"
+                    ]
+                }
+            },
+            {
+                "name": "tv.twitch:twitch:5.16"
+            },
+            {
+                "name": "java3d:vecmath:1.3.1"
+            },
+            {
+                "name": "org.apache.logging.log4j:log4j-api:2.0-beta9"
+            },
+            {
+                "name": "tv.twitch:twitch-external-platform:4.5",
+                "natives": {
+                    "windows": "natives-windows-${arch}"
+                },
+                "extract": {
+                    "exclude": [
+                        "META-INF/"
+                    ]
+                },
+                "rules": [
+                    {
+                        "action": "allow",
+                        "os": {
+                            "name": "windows"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "org.apache.commons:commons-compress:1.8.1"
+            },
+            {
+                "name": "net.java.jinput:jinput:2.0.5"
+            }
+        ]
+    }
+}
