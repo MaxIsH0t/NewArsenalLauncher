@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\components",
+    "\\app\\components\\Common",
+    "\\app\\components\\Common\\SideBar",
+    "\\app\\components\\Common\\SideMenu",
+    "\\app\\components\\Common\\SideMenu\\MenuItem",
+    "\\app\\components\\ConfirmDeleteModal",
+    "\\app\\components\\CurseModpackExplorerModal",
+    "\\app\\components\\CurseModpacksBrowser",
+    "\\app\\components\\CurseModpacksBrowserCreatorModal",
+    "\\app\\components\\DiscordModal",
+    "\\app\\components\\DManager"
+  ],
+  "SelectedNode": "\\app\\components\\Common\\SideBar\\SideBar.js",
+  "PreviewInSolutionExplorer": false
+}
